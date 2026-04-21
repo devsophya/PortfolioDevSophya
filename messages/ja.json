@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "title": "Sophya Damiazo - フルスタック開発者",
+    "description": "Gustavo Vieira - 5年以上の経験を持つソフトウェアエンジニア。React、Next.js、TypeScript、Pythonおよび最新技術に特化。スケーラブルで革新的なソリューションを構築。",
+    "keywords": "ソフトウェアエンジニア, フルスタック開発者, React, Next.js, TypeScript, Python, Web開発, Gustavo Vieira"
+  },
+  "header": {
+    "nav": {
+      "home": "ホーム",
+      "works": "作品",
+      "projects": "プロジェクト",
+      "about": "私について"
+    }
+  },
+  "hero": {
+    "title": "フルスタック開発者",
+    "subtitle": "現在、私はソフトウェアエンジニアとして",
+    "greeting": "こんにちは、私は",
+    "name": "Gustavo Vieira",
+    "description": "クリーンなコードとモダンなデザインで素晴らしいデジタル体験を創造します",
+    "cta": {
+      "primary": "プロジェクトを見る",
+      "secondary": "お問い合わせ"
+    }
+  },
+  "footer": {
+    "rights": "全著作権所有",
+    "social": "ソーシャルメディア"  },
+  "bottomNav": {
+    "home": "ホーム",
+    "aboutme": "私について",
+    "works": "作品",
+    "projects": "プロジェクト",
+    "contact": "お問い合わせ"
+  },
+  "projects": {
+    "title": "プロジェクト",
+    "subtitle": "私が開発および参加したプロジェクト",
+    "visitSite": "サイトを訪問",
+    "minicentralgames": {
+      "description": "MiniCentral Gamesでは、アイデアをゲームの世界でユニークでクリエイティブな体験に変えることが私たちの使命です。デスクトップとモバイル向けのゲーム開発に特化した開発センターであり、特にソーシャルゲーム — プレイヤー間のインタラクションが楽しさの主要ポイント — に注目しています。想像力を基盤として、没入感があり、ダイナミックで個性に満ちた世界に命を吹き込みます。各プロジェクトは、革新とエンターテイメントを目的として生まれ、ゲームの力を通じて人々を結びつけます。"
+    },
+    "gofoodapi": {
+      "description": "GoFood は、デリバリーシステム向けに Java と Spring Boot で開発された RESTful API で、ユーザー、レストラン、料理、注文、住所を包括的に管理できます。認証、パスワード再設定、バリデーション、注文ステータス管理、リレーショナルデータベース連携を備え、DTO の活用や例外処理などのベストプラクティスにより、安全で整理され拡張性の高い API を実現しています。"
+    },
+    "workouttrackerdashboard": {
+      "description": "Workout Tracker Dashboard は、運動アクティビティのモニタリングを目的として UX/UI に注力して作成したインターフェースのプロトタイプです。トレーニングの進捗、スケジュール、歩数、心拍数などのデータをレスポンシブなレイアウトで表示し、視覚的な階層、分かりやすさ、使いやすさを重視しています。"
+    },
+    "homehub": {
+      "description": "Home Hub は、Single-SPA を使用して複数の React マイクロフロントエンド（MFE）をオーケストレーションする、マイクロフロントエンドベースのフロントエンドアプリケーションです。モジュールのライフサイクルと統合を担う中央コンテナを備え、スケーラビリティと低結合を実現します。TypeScript、Webpack、Material UI を採用し、マイクロフロントエンド間の通信とモジュール構成も実装しています。"
+    },
+    "ignitefeed": {
+      "description": "Ignite Feed は、React と TypeScript で開発されたフロントエンドアプリケーションで、再利用可能な関数コンポーネントと、props・状態・イベントに対する静的型付けを採用しています。useState による状態管理、useEffect による副作用の制御、そしてデータの不変更新を実装し、コンポーネント化のベストプラクティス、状態の予測可能性、アプリケーションの整理された構成に沿って設計されています。"
+    },
+    "estequio": {
+      "description": "ESTEQUIOは、UNICAMPの教育学博士課程の枠組みで開発された教育デジタルゲームです。特に自閉症の生徒向けに、楽しく、インタラクティブで、アクセス可能な方法で化学量論の教育を支援することを目的としています。日常生活の状況に触発されたさまざまなシナリオとチャレンジでのミッションを通じて、このゲームは注意力、論理的思考、および化学概念の意味のある学習を刺激し、学生の包摂、自律性、エンゲージメントを促進します。開発者："
+    }
+  },
+  "works": {
+    "title": "職務経歴",
+    "subtitle": "長年にわたる私の歩み",
+    "yearsOfExperience": "年の経験",
+    "companyDescriptionLabel": "会社について",
+    "impactsLabel": "主な影響",
+    "keywordsLabel": "技術とスキル",
+    "novorumo": {
+      "role": "フルスタック開発者",
+      "period": "2023年1月 - 2023年6月",      "duration": "6ヶ月",
+      "type": "インターンシップ",
+      "companyDescription": "乾貨物を専門とする道路輸送会社で、全国展開し、鉄鋼、食品、穀物セクターに焦点を当てています。",
+      "description": "技術分野でのキャリアの初期段階で、機器のメンテナンスとシステム開発を行いました。",
+      "impact1": "機器のメンテナンスとクリーニングを実施し、在庫と棚卸しを整理しました。",
+      "impact2": "パージ後、別のデータベースにある古いドキュメントのSQL ServerでのSQL検索を実施しました。",
+      "impact3": "また、本社と支店のコール管理システムの必要性に対応するため、Tom Ticketというアプリケーションを実装し、ソフトウェアのインストール、コンピュータのメンテナンス、必要な設定に関するユーザーのニーズを一元化しました。",
+      "keyword1": "SQL Server",
+      "keyword2": "機器メンテナンス",
+      "keyword3": "在庫管理",
+      "keyword4": "技術サポート",
+      "keyword5": "Tom Ticket",
+      "keyword6": "コール管理",
+      "keyword7": "データベース管理",
+      "keyword8": "ITサポート"
+    },
+    "localiza": {
+      "role": "フロントエンド開発者",
+      "period": "2025年5月 - 2025年9月",
+      "duration": "4ヶ月",
+      "type": "フルタイム",
+      "companyDescription": "Localiza&Coは、ラテンアメリカにおける持続可能なモビリティのリーディングプラットフォームであり、レンタカー、サブスクリプションカー（Localiza Meoo）、中古車販売、フリート管理、ドライバー向けソリューション（Localiza Zarp）を提供し、技術とイノベーションに焦点を当て（Localiza Labs）、複数の国で展開し、顧客と従業員を中心とした強力な企業文化で知られています。",
+      "description": "Localiza&COのモビリティエコシステムのための革新的なソリューションを開発し、最新技術とスケーラブルなアーキテクチャを使用してプロセスを最適化し、ユーザー体験を向上させています。",
+      "impact1": "要件を満たす技術ソリューションの実装、デザインパターンと開発のベストプラクティスに従う。既存システムの保守と最適化、レガシーコードのリファクタリングと重大なバグの修正を含む。ソフトウェア品質を保証するための自動テストの実装。",
+      "impact2": "RESTful API、Docker と Kubernetes を使用したマイクロサービス、メッセージングシステム（RabbitMQ と Kafka）との統合、Entity Framework と Dapper を使用した SQL Server、Sybase、MongoDB のクエリ最適化、セキュリティ、認証、認可のプラクティスの適用に焦点を当てた .NET/C# によるバックエンド開発。デイリー、リファインメント、スプリントレビュー、レトロスペクティブを含むアジャイルサイクル（SCRUM/Kanban）への積極的な参加。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "RESTful API",
+      "keyword4": "SQL Server",
+      "keyword5": "Sybase",
+      "keyword6": "MongoDB",
+      "keyword7": "Entity Framework",
+      "keyword8": "Dapper",
+      "keyword9": "RabbitMQ",
+      "keyword10": "Kafka",
+      "keyword11": "Docker",
+      "keyword12": "Kubernetes",
+      "keyword13": "マイクロサービス",
+      "keyword14": "SCRUM",
+      "keyword15": "Kanban",
+      "keyword16": "自動テスト",
+      "keyword17": "ユニットテスト",
+      "keyword18": "統合テスト",
+      "keyword19": "セキュリティ",
+      "keyword20": "認証",
+      "keyword21": "認可",
+      "keyword22": "Azure DevOps",
+      "keyword23": "Git",
+      "keyword24": "CI/CD",
+      "keyword25": "Clean Architecture",
+      "keyword26": "SOLID",
+      "keyword27": "リファクタリング"
+    },
+    "g2": {
+      "role": "フルスタック開発者",
+      "period": "2026年3月 - 現在",
+      "duration": "1ヶ月",
+      "type": "フルタイム",
+      "companyDescription": "G2は、ビジネスソリューションの評価と比較に特化したグローバルなソフトウェア企業で、製品のインサイトと分析を通じて購入者がより賢い意思決定を行えるよう支援しています。",
+      "description": "G2の高インパクトプロジェクトでSoftware Engineer III (Senior)として貢献し、モダンな技術を使ってソフトウェア評価プラットフォームをスケールしています。",
+      "impact1": "エンタープライズ向けプラットフォームのユーザー体験を改善するために、スケーラブルなアーキテクチャとデータ統合を構築しました。",
+      "impact2": "品質、パフォーマンス、使いやすさに重点を置いた機能を提供するために、マルチディシプリナリーチームと協力しました。",
+      "keyword1": "JavaScript",
+      "keyword2": "TypeScript",
+      "keyword3": "React",
+      "keyword4": "Next.js",
+      "keyword5": "RESTful API",
+      "keyword6": "アジャイル開発"
+    },
+    "ituran": {
+      "role": "フルスタック開発者",
+      "period": "2024年11月 - 2025年5月",
+      "duration": "7ヶ月",
+      "type": "フルタイム",
+      "companyDescription": "Ituranは、車両監視および回収市場のリーダーであり、30か国以上で展開し、230万人以上の顧客を擁しています。最先端の技術、イノベーション、および高可用性のサービスを組み合わせた、車両、貨物、およびフリートの追跡ソリューションで事業を展開しています。",
+      "description": "追跡および遠隔測定システムの開発に従事し、複雑な統合と高可用性システムを扱って車両の安全性を確保しました。",
+      "impact1": "レガシーシステムSAMのガレージモジュールを新システムIRISに書き換え、1日1000台のメンテナンス中の車両を管理しました。このモジュールは車両の問題を特定し、顧客に連絡し、トラッカーイベントの分析と迅速な診断のためのAI提案を備えたメンテナー向けのアクセスを提供します。MOD、DAL、DLLアーキテクチャからC#を使用したREST APIへの完全な移行を行い、Clean Architecture、SOLID、およびSwaggerドキュメントを適用しました。",
+      "impact2": "問題として特定されないイベント（AIで監視）のガレージのパージとクリーンアップジョブを実装し、従業員のエクスペリエンスを優先しました。イベントの入出力、ジョブのスケジュール、実用的なレポートの構成を可能にする完全な汎用性を持つモジュールを開発しました。また、レガシーシステムのストアドプロシージャの最適化に取り組み、標準化、より良い組織、およびメンテナンスのための完全なデザインシステムを使用したIRISの近代化を提案しました。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "ストアドプロシージャ",
+      "keyword27": "自動テスト",
+      "keyword28": "AWS",
+      "keyword29": "デザインシステム",
+      "keyword30": "REST API"
+    },
+    "compass": {
+      "role": "ソフトウェア開発者",
+      "period": "2024年8月 - 2025年2月",
+      "duration": "7ヶ月",
+      "type": "インターンシップ",
+      "companyDescription": "Compass UOLは、デジタルトランスフォーメーションと人工知能（AI）に焦点を当てたブラジルの多国籍テクノロジー企業であり、大企業のイノベーションの加速、プロセスの最適化、効率の向上のために先進技術を使用した企業ソリューションを開発しており、AWSとのパートナーシップとAI Transformationへの焦点で認められています。",
+      "description": "クラウドコンピューティング、DevOps、アジャイル方法論に重点を置いた、最新のソフトウェア開発に焦点を当てた集中トレーニングプログラムへの参加。",
+      "impact1": "Node.js、React、AWSへの集中的なイマージョンにより、最新のフルスタックおよびクラウドコンピューティング技術のスキルを開発。",
+      "impact2": "レンタカー専門企業Movida向けのバックエンドシステムのMVP（Minimum Viable Product）を提供しました。プロジェクトはNode.js / JavaScriptとMySQLを使用して開発され、SOLIDの原則を適用し、クリーンでスケーラブルなコード構造を維持し、将来的にはSaaSとして最終プロジェクトに移行します。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "ストアドプロシージャ",
+      "keyword27": "自動テスト",
+      "keyword28": "AWS"
+    },
+    "zf": {
+      "role": "フルスタック開発者",
+      "period": "2023年6月 - 2024年6月",
+      "duration": "1年",
+      "type": "契約社員 - KLB Group",
+      "companyDescription": "ZF Groupは、自動車産業における世界的リーダーの1つであり、製造実行システム（MES）セグメントにおける先進的なソリューションを提供し、電子機器、パワーステアリング、ブレーキ、エアバッグ、ステアリングギアボックスなどの重要なコンポーネントをカバーしています。",
+      "description": "自動車業界向けのソリューションの開発、組み込みシステムおよび車両用ソフトウェア統合に従事。",
+      "impact1": "Kubernetesのために最初の生産ラインのコンテナ化を実施し、必要に応じた可用性とスケーラビリティのためのDeploymentを検討し、Datadogによる監視も実装しました。これにより、サーバーの可用性に起因するコールとトラブルのSLA時間が90％短縮されました。",
+      "impact2": "独立して機能していた約100の生産ラインを集約するためのPDPQポータルを開発し、健全性データ、生産ライン、およびモジュール管理を検証するためのHUBを作成しました。これにより、コールの開設、新規ユーザーの作成、権限の割り当てなどの多くの手順が自動化され、サービスが改善され、チームとLimeiraのZF Group拠点にとって真のイノベーションとなりました。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "ストアドプロシージャ",
+      "keyword27": "自動テスト"
+    }
+  },
+  "contact": {
+    "role": "フルスタック開発者",
+    "phone": "電話",
+    "email": "メール"
+  },
+  "aboutMe": {
+    "title": "私について",
+    "description": "私はフルスタック開発者で、パフォーマンスとユーザー体験を重視したモダンでスケーラブルなインターフェースの構築に経験があります。企業向けWebアプリケーション、SaaS、デジタルプラットフォームの開発に携わり、常にコードの整理、コンポーネントの再利用、およびフロントエンドのベストプラクティスを優先しています。\n\n私はフルスタックの実務経験があり、REST API、ビジネスルール、および企業システムの構築と統合に携わっています。これによりプロダクト視点を持ち、フロントエンドとバックエンドのコミュニケーションが円滑になります。",
+    "educationTitle": "学歴",
+    "stackTitle": "技術スタック",
+    "education": {
+      "usp": {
+        "degree": "学士号 - 情報システム"
+      },
+      "senac": {
+        "degree": "テクノロジスト、システム分析と開発"
+      },
+      "libano": {
+        "ai": "ポストグラデュエーション・ラト・センス - 専門, Webデザイン",
+        "bi": "ポストグラデュエーション・ラト・センス - 専門, モバイル開発"
+      }
+    }
+  }
+}

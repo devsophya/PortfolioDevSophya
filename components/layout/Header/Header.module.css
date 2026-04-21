@@ -1,0 +1,146 @@
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: transparent;
+  backdrop-filter: blur(8px);
+  z-index: 50;
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1rem 3rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #FFFF;
+  font-family: var(--font-space-grotesk), sans-serif;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+}
+
+.logo {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  box-shadow: 0 -15px 35px -12px rgba(255, 255, 255, 1);
+}
+
+
+.languageSwitcher {
+  position: relative;
+}
+
+.languageButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: transparent;
+  border: 2px solid #ededed40;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 50px;
+  justify-content: center;
+}
+
+.languageButton:hover {
+  transform: translateY(-1px);
+  box-shadow: 2px 2px 4px rgba(237, 237, 237, 0.3);
+}
+
+.flagImage {
+  width: 1.5rem;
+  height: 1.2rem;
+  flex-shrink: 0;
+  border-radius: 2px;
+  object-fit: cover;
+}
+
+.dropdownIcon {
+  width: 1rem;
+  height: 1rem;
+  color: var(--foreground);
+  transition: transform 0.2s;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.dropdownIcon.open {
+  transform: rotate(180deg);
+}
+
+.dropdown {
+  position: absolute;
+  right: 0;
+  margin-top: 0.5rem;
+  width: 10rem;
+  background: transparent;
+  border-radius: 0.75rem;
+  box-shadow: 0 5px 30px -10px var(--foreground);
+  border: 2px solid var(--foreground);
+  overflow: hidden;
+  padding: 0.5rem 0;
+}
+
+.dropdownItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.625rem 1rem;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-family: inherit;
+}
+
+.dropdownItem:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.dropdownItem.active {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dropdownLabel {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.dropdownLabel.active {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+/* Laptop 15" (1366px - 1536px) */
+@media (max-width: 1600px) {
+
+  .dropdown {
+    width: 4rem;
+  }
+
+  .dropdownItem {
+    padding: 0.5rem 1rem;
+  }
+  
+  .dropdownLabel {
+    display: none;
+  }
+}

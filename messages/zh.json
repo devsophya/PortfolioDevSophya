@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "title": "Sophya Damiazo - 全栈开发工程师",
+    "description": "Gustavo Vieira - 拥有5年以上经验的软件工程师。专注于React、Next.js、TypeScript、Python和现代技术。构建可扩展的创新解决方案。",
+    "keywords": "软件工程师, 全栈开发者, React, Next.js, TypeScript, Python, Web开发, Gustavo Vieira"
+  },
+  "header": {
+    "nav": {
+      "home": "首页",
+      "works": "作品",
+      "projects": "项目",
+      "about": "关于我"
+    }
+  },
+  "hero": {
+    "title": "全栈开发工程师",
+    "subtitle": "目前，我是一名软件工程师在",
+    "greeting": "你好，我是",
+    "name": "Gustavo Vieira",
+    "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验",
+    "cta": {
+      "primary": "查看项目",
+      "secondary": "联系我"
+    }
+  },
+  "footer": {
+    "rights": "保留所有权利",
+    "social": "社交媒体"
+  },
+  "bottomNav": {
+    "home": "首页",
+    "aboutme": "关于我",
+    "works": "作品",
+    "projects": "项目",
+    "contact": "联系"
+  },
+  "projects": {
+    "title": "项目",
+    "subtitle": "我开发和参与的一些项目",
+    "visitSite": "访问网站",
+    "minicentralgames": {
+      "description": "在MiniCentral Games，我们的使命是将创意转化为游戏世界中独特而富有创意的体验。我们是一个专注于为桌面和移动平台创建游戏的开发中心，特别关注社交游戏——玩家之间的互动是乐趣的主要焦点。我们以想象力为基础，为沉浸式、动态且充满个性的世界注入生命。每个项目都以创新和娱乐为目的诞生，通过游戏的力量连接人们。"
+    },
+    "gofoodapi": {
+      "description": "GoFood 是一款面向外卖/配送系统的 RESTful API，使用 Java 和 Spring Boot 开发，提供对用户、餐厅、菜品、订单和地址的完整管理。它包含认证、密码找回、数据校验、订单状态控制以及与关系型数据库的集成，并遵循 DTO 使用与异常处理等最佳实践，打造安全、结构清晰且可扩展的 API。"
+    },
+    "workouttrackerdashboard": {
+      "description": "Workout Tracker Dashboard 是一个面向健身活动监测、以 UX/UI 为核心的界面原型。它以响应式布局展示训练进度、日程安排、步数和心率等数据，强调清晰的信息层级、易读性与可用性。"
+    },
+    "homehub": {
+      "description": "Home Hub 是一款基于微前端的前端应用，使用 Single-SPA 编排多个 React 微前端（MFE）。它拥有一个负责模块生命周期与集成的中央容器，确保可扩展性与低耦合。项目采用 TypeScript、Webpack 和 Material UI，并实现微前端之间的通信与模块化组织。"
+    },
+    "ignitefeed": {
+      "description": "Ignite Feed 是一款使用 React 与 TypeScript 开发的前端应用，采用可复用的函数组件结构，并对 props、状态与事件进行静态类型约束。它通过 useState 实现状态管理，使用 useEffect 控制副作用，并以不可变方式更新数据，遵循组件化最佳实践、状态可预测性与应用组织规范。"
+    },
+    "estequio": {
+      "description": "ESTEQUIO是在UNICAMP教育博士课程框架内开发的教育数字游戏。其目标是以有趣、互动和易于理解的方式帮助教授化学计量学，特别是针对自闭症学生。通过不同场景中的任务和受日常情况启发的挑战，该游戏激发注意力、逻辑推理和化学概念的有意义学习，促进学生的包容性、自主性和参与度。开发者"
+    }
+  },
+  "works": {
+    "title": "职业经历",
+    "subtitle": "我多年来的职业旅程",
+    "yearsOfExperience": "年经验",
+    "companyDescriptionLabel": "关于公司",
+    "impactsLabel": "主要影响",
+    "keywordsLabel": "技术和技能",
+    "novorumo": {
+      "role": "全栈开发工程师",
+      "period": "2023年1月 - 2023年6月",
+      "duration": "6个月",
+      "type": "实习",
+      "companyDescription": "专业从事干货运输的公路运输公司，业务遍布全国，专注于钢铁、食品和谷物行业。",
+      "description": "在我技术职业生涯的初期阶段，我进行了设备维护和系统开发。",
+      "impact1": "我进行了设备维护和清洁，组织库存和清单。",
+      "impact2": "在清除后，我在SQL Server中对单独数据库中的旧文档进行SQL搜索。",
+      "impact3": "我还实施了一个名为Tom Ticket的应用程序，以满足总部和分支机构对呼叫管理系统的需求，集中用户对软件安装、计算机维护和必要配置的需求。",
+      "keyword1": "SQL Server",
+      "keyword2": "设备维护",
+      "keyword3": "库存管理",
+      "keyword4": "技术支持",
+      "keyword5": "Tom Ticket",
+      "keyword6": "呼叫管理",
+      "keyword7": "数据库管理",
+      "keyword8": "IT支持"
+    },
+    "localiza": {
+      "role": "前端开发工程师",
+      "period": "2025年5月 - 2025年9月",
+      "duration": "4个月",
+      "type": "全职",
+      "companyDescription": "Localiza&Co是拉丁美洲领先的可持续移动平台，提供汽车租赁、汽车订阅（Localiza Meoo）、二手车销售、车队管理和驾驶员解决方案（Localiza Zarp），专注于技术和创新（Localiza Labs），业务遍布多个国家，以其强大的以客户和员工为中心的文化而闻名。",
+      "description": "为Localiza&CO的移动生态系统开发创新解决方案，使用现代技术和可扩展架构优化流程并改善用户体验。",
+      "impact1": "实施满足需求的技术解决方案，遵循设计模式和开发最佳实践。维护和优化现有系统，包括重构遗留代码和修复关键错误。实施自动化测试以确保软件质量。",
+      "impact2": "使用.NET/C#进行后端开发，专注于RESTful API、使用Docker和Kubernetes的微服务、与消息系统（RabbitMQ和Kafka）集成、使用Entity Framework和Dapper优化SQL Server、Sybase和MongoDB查询、应用安全、身份验证和授权实践。积极参与敏捷周期（SCRUM/Kanban），包括每日站会、细化、冲刺评审和回顾。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "RESTful APIs",
+      "keyword4": "SQL Server",
+      "keyword5": "Sybase",
+      "keyword6": "MongoDB",
+      "keyword7": "Entity Framework",
+      "keyword8": "Dapper",
+      "keyword9": "RabbitMQ",
+      "keyword10": "Kafka",
+      "keyword11": "Docker",
+      "keyword12": "Kubernetes",
+      "keyword13": "微服务",
+      "keyword14": "SCRUM",
+      "keyword15": "Kanban",
+      "keyword16": "自动化测试",
+      "keyword17": "单元测试",
+      "keyword18": "集成测试",
+      "keyword19": "安全",
+      "keyword20": "身份验证",
+      "keyword21": "授权",
+      "keyword22": "Azure DevOps",
+      "keyword23": "Git",
+      "keyword24": "CI/CD",
+      "keyword25": "Clean Architecture",
+      "keyword26": "SOLID",
+      "keyword27": "重构"
+    },
+    "g2": {
+      "role": "全栈开发工程师",
+      "period": "2025年9月 - 现在",
+      "duration": "7个月",
+      "type": "全职",
+      "companyDescription": "G2是一家全球软件公司，专注于评估和比较企业解决方案，通过产品洞察和分析帮助买家做出更明智的决策。",
+      "description": "作为Software Engineer III (Senior)参与高影响力项目，使用现代技术扩展软件评估平台。",
+      "impact1": "构建可扩展架构和数据集成，以改善企业平台的用户体验。",
+      "impact2": "与多学科团队合作，交付关注质量、性能和可用性的功能。",
+      "keyword1": "JavaScript",
+      "keyword2": "TypeScript",
+      "keyword3": "React",
+      "keyword4": "Next.js",
+      "keyword5": "RESTful APIs",
+      "keyword6": "敏捷开发"
+    },
+    "ituran": {
+      "role": "全栈开发工程师",
+      "period": "2024年11月 - 2025年5月",
+      "duration": "7个月",
+      "type": "全职",
+      "companyDescription": "Ituran是车辆监控和回收市场的领导者，业务遍布30多个国家，拥有超过230万客户。提供车辆、货物和车队跟踪解决方案，结合尖端技术、创新和高服务可用性。",
+      "description": "从事跟踪和遥测系统开发，处理复杂集成和高可用性系统以确保车辆安全。",
+      "impact1": "将遗留SAM系统的车库模块重写为新的IRIS系统，负责每天管理1000辆维护中的汽车。该模块识别车辆问题，联系客户，为维护人员提供跟踪器事件分析和AI建议以进行快速诊断。完成从MOD、DAL和DLL架构到REST API（使用C#）的全面转换，应用Clean Architecture、SOLID原则和Swagger文档。",
+      "impact2": "实施车库的清除和清理作业，处理未被识别为问题的事件（由AI监控），优先考虑员工体验。开发具有完全灵活性的模块，允许配置事件输入/输出、作业时间表和实用报告。还致力于优化遗留系统的存储过程，并展示了IRIS的现代化方案，包含完整的设计系统以实现标准化、更好的组织和维护。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "存储过程",
+      "keyword27": "自动化测试",
+      "keyword28": "AWS",
+      "keyword29": "设计系统",
+      "keyword30": "REST API"
+    },
+    "compass": {
+      "role": "软件开发者",
+      "period": "2024年8月 - 2025年2月",      "duration": "7个月",      "type": "实习",
+      "companyDescription": "Compass UOL是一家专注于数字化转型和人工智能（AI）的巴西跨国科技公司，利用先进技术开发企业解决方案以加速创新、优化流程和提高大型企业的效率，以其与AWS的合作伙伴关系和对AI转型的关注而闻名。",
+      "description": "参与专注于现代软件开发的强化培训计划，重点是云计算、DevOps和敏捷方法。",
+      "impact1": "深入学习Node.js、React和AWS，发展现代全栈开发技术和云计算技能。",
+      "impact2": "为专门从事汽车租赁的公司Movida交付了后端系统的MVP（最小可行产品）。该项目使用Node.js / JavaScript和MySQL开发，应用SOLID原则并保持清晰可扩展的代码结构，作为最终项目未来将发展为SaaS。",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "存储过程",
+      "keyword27": "自动化测试",
+      "keyword28": "AWS"
+    },
+    "zf": {
+      "role": "全栈开发工程师",
+      "period": "2023年6月 - 2024年6月",
+      "duration": "1年",
+      "type": "合同工",
+      "description": "为汽车行业开发解决方案，使用嵌入式系统和车辆软件集成。",
+      "impact1": "为汽车行业开发系统",
+      "impact2": "嵌入式软件与企业系统集成",
+      "impact3": "使用敏捷方法和持续交付工作",
+      "keyword1": "C#",
+      "keyword2": ".NET",
+      "keyword3": "SQL Server",
+      "keyword4": "Azure DevOps"
+    }
+  },
+  "contact": {
+    "role": "全栈开发工程师",
+    "phone": "电话",
+    "email": "邮箱"
+  },
+  "aboutMe": {
+    "title": "关于我",
+    "description": "我是全栈开发工程师，拥有构建现代、可扩展界面并注重性能和用户体验的经验。我参与企业级 Web 应用、SaaS 和数字平台的开发，始终优先考虑代码组织、组件复用和前端最佳实践。\n\n我具备全栈实战经验，参与 REST API、业务规则和企业系统的构建与集成，这让我具备产品视角并促进前后端之间的沟通。",
+    "educationTitle": "教育背景",
+    "stackTitle": "技术栈",
+    "education": {
+      "usp": {
+        "degree": "学士学位 - 信息系统"
+      },
+      "senac": {
+        "degree": "学士学位，系统分析与开发"
+      },
+      "libano": {
+        "ai": "Lato Sensu 研究生 - 专业化, Web 设计",
+        "bi": "Lato Sensu 研究生 - 专业化, 移动开发"
+      }
+    }
+  }
+}

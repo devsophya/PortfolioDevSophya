@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "title": "Sophya Damiazo - Desarrolladora Full Stack",
+    "description": "Gustavo Vieira - Ingeniero de software con más de 5 años de experiencia. Especializado en React, Next.js, TypeScript, Python y tecnologías modernas. Construyendo soluciones escalables e innovadoras.",
+    "keywords": "Ingeniero de Software, Desarrollador Full Stack, React, Next.js, TypeScript, Python, Desarrollo Web, Gustavo Vieira"
+  },
+  "header": {
+    "nav": {
+      "home": "Inicio",
+      "works": "Trabajos",
+      "projects": "Proyectos",
+      "about": "Sobre mí"
+    }
+  },
+  "hero": {
+    "title": "Desarrolladora Full Stack",
+    "subtitle": "Actualmente, soy ingeniero de software en",
+    "greeting": "Hola, soy",
+    "name": "Gustavo Vieira",
+    "description": "Creando experiencias digitales increíbles con código limpio y diseño moderno",
+    "cta": {
+      "primary": "Ver Proyectos",
+      "secondary": "Contáctame"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "social": "Redes Sociales"
+  },
+  "bottomNav": {
+    "home": "Inicio",
+    "aboutme": "Sobre Mí",
+    "works": "Trabajos",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Algunos proyectos que he desarrollado y en los que he participado",
+    "visitSite": "Visitar Sitio",
+    "gofoodapi": {
+      "description": "GoFood es una API RESTful desarrollada con Java y Spring Boot para sistemas de delivery, que ofrece una gestión completa de usuarios, restaurantes, platos, pedidos y direcciones. Incluye autenticación, recuperación de contraseña, validaciones, control del estado de los pedidos e integración con una base de datos relacional, siguiendo buenas prácticas como el uso de DTOs y el manejo de excepciones para una API segura, organizada y escalable."
+    },
+    "workouttrackerdashboard": {
+      "description": "Workout Tracker Dashboard es un prototipo de interfaz desarrollado con enfoque en UX/UI para el monitoreo de actividad física. Presenta datos como progreso de entrenamientos, agenda, pasos y frecuencia cardíaca en un diseño responsivo, priorizando jerarquía visual, claridad y usabilidad."
+    },
+    "homehub": {
+      "description": "Home Hub es una aplicación frontend basada en micro-frontends, que utiliza Single-SPA para orquestar múltiples MFEs en React. Cuenta con un contenedor central responsable del ciclo de vida y la integración de los módulos, garantizando escalabilidad y bajo acoplamiento. El proyecto utiliza TypeScript, Webpack y Material UI, además de implementar comunicación entre micro-frontends y una organización modular."
+    },
+    "ignitefeed": {
+      "description": "Ignite Feed es una aplicación frontend desarrollada en React con TypeScript, estructurada con componentes funcionales reutilizables y tipado estático para props, estados y eventos. Implementa gestión de estado con useState, control de efectos secundarios con useEffect y actualización inmutable de datos, siguiendo buenas prácticas de componentización, previsibilidad del estado y organización de la aplicación."
+    },
+    "minicentralgames": {
+      "description": "En MiniCentral Games, nuestra misión es transformar ideas en experiencias únicas y creativas en el universo de los juegos. Somos un centro de desarrollo enfocado en crear juegos para Desktop y Mobile, con especial atención a los juegos sociales — donde la interacción entre jugadores es el punto principal de la diversión. Utilizamos la imaginación como base para dar vida a mundos inmersivos, dinámicos y llenos de personalidad. Cada proyecto nace con el propósito de innovar y entretener, conectando personas a través del poder de los juegos."
+    },
+    "estequio": {
+      "description": "ESTEQUIO es un juego digital educativo desarrollado en el ámbito del doctorado en Educación de UNICAMP. Su objetivo es ayudar en la enseñanza de estequiometría de forma lúdica, interactiva y accesible, especialmente para alumnos autistas. A través de misiones en diferentes escenarios y desafíos inspirados en situaciones cotidianas, el juego estimula la atención, el razonamiento lógico y el aprendizaje significativo de conceptos químicos, promoviendo la inclusión, autonomía y compromiso de los estudiantes. Desarrollado por"
+    }
+  },
+  "works": {
+    "title": "Experiencia Profesional",
+    "subtitle": "Mi trayectoria a lo largo de los años",
+    "yearsOfExperience": "Años de Experiencia",
+    "companyDescriptionLabel": "Sobre la Empresa",
+    "impactsLabel": "Impactos Principales",
+    "keywordsLabel": "Tecnologías y Habilidades",
+    "novorumo": {
+      "role": "Desarrolladora Full Stack",
+      "period": "ene de 2023 - jun de 2023",
+      "duration": "6 meses",
+      "type": "Prácticas",
+      "companyDescription": "Empresa de transporte por carretera especializada en carga seca, con actuación nacional y enfoque en los sectores siderúrgico, alimentario y de granos.",
+      "description": "Realicé mantenimiento de equipos y desarrollo de sistemas durante la fase inicial de mi carrera en tecnología.",
+      "impact1": "Realicé mantenimiento y limpieza de equipos, organizando stock e inventario.",
+      "impact2": "Realicé búsquedas SQL en SQL Server para documentos más antiguos en bases de datos separadas después de expurgos.",
+      "impact3": "También implementé una aplicación llamada Tom Ticket para atender la necesidad de un sistema de gestión de llamados para la matriz y sucursales, centralizando las necesidades de los usuarios para instalación de software, mantenimiento de computadoras y configuraciones necesarias.",
+      "keyword1": "SQL Server",
+      "keyword2": "Mantenimiento de Equipos",
+      "keyword3": "Gestión de Inventario",
+      "keyword4": "Soporte Técnico",
+      "keyword5": "Tom Ticket",
+      "keyword6": "Gestión de Llamados",
+      "keyword7": "Administración de Base de Datos",
+      "keyword8": "Soporte de TI"
+    },
+    "localiza": {
+      "role": "Desarrolladora Front End",
+      "period": "may de 2025 - sep de 2025",
+      "duration": "4 meses",
+      "type": "Tiempo completo",
+      "companyDescription": "Localiza&Co es una plataforma líder en movilidad sostenible en América Latina, ofreciendo alquiler de autos, auto por suscripción (Localiza Meoo), venta de seminuevos, gestión de flotas y soluciones para conductores (Localiza Zarp), con enfoque en tecnología e innovación (Localiza Labs), presente en varios países y conocida por su fuerte cultura centrada en el cliente y el colaborador.",
+      "description": "Desarrollo de soluciones innovadoras para el ecosistema de movilidad de Localiza&CO, trabajando con tecnologías modernas y arquitecturas escalables para optimizar procesos y mejorar la experiencia del usuario.",
+      "impact1": "Implementación de soluciones técnicas que cumplen con los requisitos, siguiendo patrones de diseño y buenas prácticas de desarrollo. Mantenimiento y optimización de sistemas existentes, incluida la refactorización de código legacy y correcciones de bugs críticos. Implementación de pruebas automatizadas para garantizar la calidad del software.",
+      "impact2": "Desarrollo backend con .NET/C# enfocado en APIs RESTful, microservicios con Docker y Kubernetes, integración con sistemas de mensajería (RabbitMQ y Kafka), optimización de consultas en SQL Server, Sybase y MongoDB utilizando Entity Framework y Dapper, aplicando prácticas de seguridad, autenticación y autorización. Participación activa en ciclos ágiles (SCRUM/Kanban) con dailies, refinamientos, sprint reviews y retrospectivas.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "APIs RESTful",
+      "keyword4": "SQL Server",
+      "keyword5": "Sybase",
+      "keyword6": "MongoDB",
+      "keyword7": "Entity Framework",
+      "keyword8": "Dapper",
+      "keyword9": "RabbitMQ",
+      "keyword10": "Kafka",
+      "keyword11": "Docker",
+      "keyword12": "Kubernetes",
+      "keyword13": "Microservicios",
+      "keyword14": "SCRUM",
+      "keyword15": "Kanban",
+      "keyword16": "Pruebas Automatizadas",
+      "keyword17": "Pruebas Unitarias",
+      "keyword18": "Pruebas de Integración",
+      "keyword19": "Seguridad",
+      "keyword20": "Autenticación",
+      "keyword21": "Autorización",
+      "keyword22": "Azure DevOps",
+      "keyword23": "Git",
+      "keyword24": "CI/CD",
+      "keyword25": "Clean Architecture",
+      "keyword26": "SOLID",
+      "keyword27": "Refactorización"
+    },
+    "g2": {
+      "role": "Desarrolladora Full Stack",
+      "period": "sep de 2025 - Presente",
+      "duration": "7 meses",
+      "type": "Tiempo completo",
+      "companyDescription": "G2 es una empresa de software global especializada en revisar y comparar soluciones empresariales, ayudando a los compradores a tomar decisiones más informadas con insights y análisis de productos.",
+      "description": "Trabajando como Software Engineer III (Senior) en proyectos de alto impacto, utilizando tecnología moderna para escalar plataformas de evaluación de software.",
+      "impact1": "Construcción de arquitecturas escalables e integraciones de datos para mejorar la experiencia del usuario en plataformas de clientes empresariales.",
+      "impact2": "Colaboración con equipos multidisciplinares para entregar funcionalidades con foco en calidad, rendimiento y usabilidad.",
+      "keyword1": "JavaScript",
+      "keyword2": "TypeScript",
+      "keyword3": "React",
+      "keyword4": "Next.js",
+      "keyword5": "APIs RESTful",
+      "keyword6": "Desarrollo Ágil"
+    },
+    "ituran": {
+      "role": "Desarrolladora Full Stack",
+      "period": "nov de 2024 - may de 2025",
+      "duration": "7 meses",
+      "type": "Tiempo completo",
+      "companyDescription": "Ituran es líder en el mercado de monitoreo y recuperación de vehículos, con presencia en más de 30 países y más de 2,3 millones de clientes. Opera con soluciones de rastreo vehicular, cargas y flotas, uniendo tecnología de punta, innovación y alta disponibilidad de servicios.",
+      "description": "Trabajo en el desarrollo de sistemas de rastreo y telemetría, manejando integraciones complejas y sistemas de alta disponibilidad para garantizar la seguridad vehicular.",
+      "impact1": "Reescritura del módulo de Garaje del sistema legacy SAM al nuevo sistema IRIS, responsable de administrar y gestionar 1000 autos por día en mantenimiento. El módulo identifica problemas de los vehículos, contacta clientes, ofrece acceso al mantenedor con análisis de eventos del rastreador y sugerencias de IA para diagnóstico rápido. Realicé toda la transición de arquitectura MOD, DAL y DLL a REST API con C#, aplicando Clean Architecture, SOLID y documentación con Swagger.",
+      "impact2": "Implementación de JOBs de expurgo y limpieza del Garaje para eventos no identificados como problema (monitoreados por IA), priorizando la experiencia del colaborador. Desarrollé el módulo con total versatilidad, permitiendo configuración de entradas/salidas de eventos, horarios de los JOBs y reportes prácticos. También trabajé con optimización de procedimientos de los sistemas legacy y presenté modernización de IRIS con un design system completo para estandarización, mejor organización y mantenimiento.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Pruebas Automatizadas",
+      "keyword28": "AWS",
+      "keyword29": "Design System",
+      "keyword30": "REST API"
+    },
+    "compass": {
+      "role": "Desarrollador de Software",
+      "period": "Ago 2024 - Feb 2025",
+      "duration": "7 meses",
+      "type": "Pasantía",
+      "companyDescription": "Compass UOL es una multinacional brasileña de tecnología enfocada en transformación digital e Inteligencia Artificial (IA), que desarrolla soluciones corporativas con tecnologías avanzadas para acelerar la innovación, optimizar procesos y aumentar la eficiencia de grandes empresas, reconocida por su asociación con AWS y enfoque en AI Transformation.",
+      "description": "Participación en programa de formación intensiva enfocado en desarrollo de software moderno, con énfasis en Cloud Computing, DevOps y metodologías ágiles.",
+      "impact1": "Inmersión intensiva en Node.js, React y AWS, desarrollando habilidades en tecnologías modernas de desarrollo full-stack y cloud computing.",
+      "impact2": "Entregamos el MVP (Producto Mínimo Viable) del sistema de back-end para la empresa Movida, especializada en locación de autos. El proyecto fue desarrollado utilizando Node.js / JavaScript y MySQL, aplicando los principios SOLID y manteniendo una estructura de código limpia y escalable, siguiendo futuramente hacia el SaaS como proyecto final.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Pruebas Automatizadas",
+      "keyword28": "AWS"
+    },
+    "zf": {
+      "role": "Desarrolladora Full Stack",
+      "period": "jun de 2023 - jun de 2024",
+      "duration": "1 año",
+      "type": "Contratista - KLB Group",
+      "companyDescription": "ZF Group, uno de los líderes globales en la industria automotriz, actúa con soluciones avanzadas en el segmento Manufacturing Execution System (MES), abarcando componentes críticos como electrónicos, dirección asistida, frenos, airbag y cajas de dirección.",
+      "description": "Desarrollo de soluciones para la industria automotriz, trabajando con sistemas embebidos e integraciones de software para vehículos.",
+      "impact1": "Realicé las primeras contenedorizaciones de líneas para Kubernetes pensando en Deployment para disponibilidad y escalabilidad en caso necesario, también implementé monitoreo por Datadog, esto disminuyó el tiempo de SLA de tickets y problemas debido a disponibilidad de los servidores en 90%.",
+      "impact2": "Desarrollamos el portal PDPQ para centralizar casi 100 líneas de producción que funcionaban de forma independiente, creando un HUB para verificar datos de salud, producción de la línea y gestión de los módulos. Esto mejoró el servicio y automatizó diversos procedimientos, como apertura de tickets, creación de nuevos usuarios y asignación de permisos, siendo una verdadera innovación para el equipo y para ZF Group en la unidad de Limeira.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Pruebas Automatizadas"
+    }
+  },
+  "contact": {
+    "role": "Desarrolladora Full Stack",
+    "phone": "Teléfono",
+    "email": "Correo"
+  },
+  "aboutMe": {
+    "title": "Sobre Mí",
+    "description": "Soy desarrolladora Full Stack, con experiencia en la construcción de interfaces modernas, escalables y orientadas al rendimiento y la experiencia de usuario. Trabajo en el desarrollo de aplicaciones web corporativas, SaaS y plataformas digitales, siempre priorizando la organización del código, la reutilización de componentes y las buenas prácticas de frontend.\n\nTengo experiencia full stack, trabajando en la construcción y en la integración con APIs REST, reglas de negocio y sistemas corporativos, lo que me proporciona visión de producto y facilita la comunicación entre frontend y backend.",
+    "educationTitle": "Formación",
+    "stackTitle": "Tecnologías",
+    "education": {
+      "usp": {
+        "degree": "Licenciatura - Sistemas de Información"
+      },
+      "senac": {
+        "degree": "Licenciatura, Análisis y Desarrollo de Sistemas"
+      },
+      "libano": {
+        "ai": "Posgrado Lato Sensu - Especialización, Web Design",
+        "bi": "Posgrado Lato Sensu - Especialización, Desarrollo Mobile"
+      }
+    }
+  }
+}

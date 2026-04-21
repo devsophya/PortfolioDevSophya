@@ -1,0 +1,217 @@
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.backgroundAnimation {
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 700px;
+  height: 700px;
+  z-index: 1;
+}
+
+.characterImage {
+  position: relative;
+  z-index: 2;
+}
+
+.content {
+  z-index: 2;
+  text-align: center;
+  max-width: 1200px;
+  padding: 2rem;
+}
+
+.title {
+  font-size: 8rem;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: var(--font-space-grotesk), sans-serif;
+  line-height: 1.1;
+}
+
+.subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.subtitle p {
+  font-size: 1.2rem;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.companyLogo {
+  display: inline-block;
+}
+
+.badgesContainer {
+  position: absolute;
+  bottom: 11rem;
+  left: 2rem;
+  display: flex;
+  gap: 1rem;
+  z-index: 3;
+}
+
+.badge, .badgeAlura {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.06);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  opacity: 0.9;
+}
+
+.badge img,
+.badgeAlura img {
+  width: 48px;
+  height: 48px;
+}
+
+.aluraLogo {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.behanceLogo {
+  width: auto !important;
+  height: 32px !important;
+  object-fit: contain;
+}
+
+.badge:hover, .badgeAlura:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+.behanceLogo {
+  width: 28px !important;
+  height: 28px !important;
+}
+
+/* Laptop 15" (1366px - 1536px) */
+@media (max-width: 1600px) {
+
+  .badgesContainer {
+    bottom: 9.5rem;
+  }
+
+  .title {
+    font-size: 4.5rem;
+  }
+  
+  .backgroundAnimation {
+    width: 450px;
+    height: 600px;
+    right: 5%;
+    transform: translateY(-50%) scale(0.8);
+  }
+}
+
+/* Tablet (768px - 1024px) */
+@media (max-width: 1024px) {
+  .title {
+    font-size: 3.5rem;
+  }
+  
+  .subtitle p {
+    font-size: 1.125rem;
+  }
+  
+  .backgroundAnimation {
+    width: 450px;
+    height: 450px;
+    right: 2%;
+  }
+  
+  .content {
+    max-width: 900px;
+    padding: 1.5rem;
+  }
+  
+  .badgesContainer {
+    bottom: 9rem;
+    gap: 0.75rem;
+  }
+}
+
+/* Mobile (até 768px) */
+@media (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+  }
+  
+  .subtitle p {
+    font-size: 1rem;
+  }
+  
+  .backgroundAnimation {
+    width: 350px;
+    height: 350px;
+    opacity: 0.4;
+    right: -5%;
+  }
+  
+  .content {
+    max-width: 100%;
+    padding: 1rem;
+  }
+  
+  .companyLogo {
+    width: 100px !important;
+    height: 100px !important;
+  }
+  
+  .badgesContainer {
+    bottom: 7rem;
+    gap: 0.5rem;
+    flex-direction: column;
+  }
+}
+
+/* Mobile pequeno (até 480px) */
+@media (max-width: 480px) {
+  .title {
+    font-size: 2rem;
+  }
+  
+  .subtitle p {
+    font-size: 0.875rem;
+  }
+  
+  .backgroundAnimation {
+  
+  .badgesContainer {
+    bottom: 6rem;
+    gap: 0.4rem;
+  }
+
+  .backgroundAnimation {
+    width: 280px;
+    height: 280px;
+    opacity: 0.3;
+    right: -10%;
+  }
+  
+  .companyLogo {
+    width: 80px !important;
+    height: 80px !important;
+  }
+}
+}

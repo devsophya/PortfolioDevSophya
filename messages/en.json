@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "title": "Sophya Damiazo - Full Stack Developer",
+    "description": "Gustavo Vieira - Software Engineer with 5+ years of experience. Specialized in React, Next.js, TypeScript, Python and modern technologies. Building scalable and innovative solutions.",
+    "keywords": "Software Engineer, Full Stack Developer, React, Next.js, TypeScript, Python, Web Development, Gustavo Vieira"
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "works": "Works",
+      "projects": "Projects",
+      "about": "About me"
+    }
+  },
+  "hero": {
+    "title": "Full Stack Developer",
+    "subtitle": "Currently, I'm a software engineer at",
+    "greeting": "Hi, I'm",
+    "name": "Gustavo Vieira",
+    "description": "Building amazing digital experiences with clean code and modern design",
+    "cta": {
+      "primary": "View Projects",
+      "secondary": "Get in Touch"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "social": "Social Media"
+  },
+  "bottomNav": {
+    "home": "Home",
+    "aboutme": "About Me",
+    "works": "Works",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some projects I've developed and participated in",
+    "visitSite": "Visit Site",
+    "gofoodapi": {
+      "description": "GoFood is a RESTful API built with Java and Spring Boot for food delivery systems, providing full management of users, restaurants, dishes, orders, and addresses. It includes authentication, password recovery, validations, order status management, and integration with a relational database, following best practices such as DTO usage and exception handling for a secure, well-structured, and scalable API."
+    },
+    "workouttrackerdashboard": {
+      "description": "Workout Tracker Dashboard is an interface prototype designed with a UX/UI focus for tracking physical activity. It presents data such as workout progress, schedule, steps, and heart rate in a responsive layout, prioritizing visual hierarchy, clarity, and usability."
+    },
+    "homehub": {
+      "description": "Home Hub is a micro-frontend-based frontend application, using Single-SPA to orchestrate multiple React MFEs. It features a central container responsible for the lifecycle and integration of modules, ensuring scalability and low coupling. The project uses TypeScript, Webpack, and Material UI, and implements communication between micro-frontends with a modular organization."
+    },
+    "ignitefeed": {
+      "description": "Ignite Feed is a frontend application built with React and TypeScript, structured with reusable functional components and static typing for props, state, and events. It implements state management with useState, side-effect control with useEffect, and immutable data updates, following best practices for componentization, predictable state, and application organization."
+    },
+    "minicentralgames": {
+      "description": "At MiniCentral Games, our mission is to transform ideas into unique and creative experiences in the gaming universe. We are a development hub focused on creating games for Desktop and Mobile, with special attention to social games — where player interaction is the main point of fun. We use imagination as a foundation to bring to life immersive, dynamic worlds full of personality. Each project is born with the purpose of innovating and entertaining, connecting people through the power of games."
+    },
+    "estequio": {
+      "description": "ESTEQUIO is an educational digital game developed as part of a PhD in Education at UNICAMP. Its goal is to help teach stoichiometry in a playful, interactive, and accessible way, especially for autistic students. Through missions in different scenarios and challenges inspired by everyday situations, the game stimulates attention, logical reasoning, and meaningful learning of chemical concepts, promoting inclusion, autonomy, and student engagement. Developed by"
+    }
+  },
+  "works": {
+    "title": "Professional Experience",
+    "subtitle": "My journey over the years",
+    "yearsOfExperience": "Years of Experience",
+    "companyDescriptionLabel": "About the Company",
+    "impactsLabel": "Key Impacts",
+    "keywordsLabel": "Technologies and Skills",
+    "novorumo": {
+      "role": "Full Stack Developer",
+      "period": "Jan 2023 - Jun 2023",
+      "duration": "6 mos",
+      "type": "Internship",
+      "companyDescription": "Covre is a creative development studio focused on digital products and interactive experiences.",
+      "description": "Performed equipment maintenance and system development during the initial phase of my career in technology.",
+      "impact1": "I performed equipment maintenance and cleaning, organizing stock and inventory.",
+      "impact2": "I conducted SQL searches in SQL Server for older documents in separate databases after purging.",
+      "impact3": "Also implemented an application called Tom Ticket to address the need for a call management system for headquarters and branches, centralizing user needs for software installation, computer maintenance, and necessary configurations.",
+      "keyword1": "SQL Server",
+      "keyword2": "Equipment Maintenance",
+      "keyword3": "Inventory Management",
+      "keyword4": "Technical Support",
+      "keyword5": "Tom Ticket",
+      "keyword6": "Call Management",
+      "keyword7": "Database Administration",
+      "keyword8": "IT Support"
+    },
+    "localiza": {
+      "role": "Front End Developer",
+      "period": "May 2025 - Sep 2025",
+      "duration": "4 mos",
+      "type": "Full-time",
+      "companyDescription": "MiniCentral Games is a game studio focused on creating interactive experiences and digital entertainment products.",
+      "description": "Developing innovative solutions for Localiza&CO's mobility ecosystem, working with modern technologies and scalable architectures to optimize processes and improve user experience.",
+      "impact1": "Implementation of technical solutions that meet requirements, following design patterns and development best practices. Maintenance and optimization of existing systems, including legacy code refactoring and critical bug fixes. Implementation of automated tests to ensure software quality.",
+      "impact2": "Backend development with .NET/C# focused on RESTful APIs, microservices with Docker and Kubernetes, integration with messaging systems (RabbitMQ and Kafka), query optimization in SQL Server, Sybase and MongoDB using Entity Framework and Dapper, applying security practices, authentication and authorization. Active participation in agile cycles (SCRUM/Kanban) with dailies, refinements, sprint reviews and retrospectives.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "RESTful APIs",
+      "keyword4": "SQL Server",
+      "keyword5": "Sybase",
+      "keyword6": "MongoDB",
+      "keyword7": "Entity Framework",
+      "keyword8": "Dapper",
+      "keyword9": "RabbitMQ",
+      "keyword10": "Kafka",
+      "keyword11": "Docker",
+      "keyword12": "Kubernetes",
+      "keyword13": "Microservices",
+      "keyword14": "SCRUM",
+      "keyword15": "Kanban",
+      "keyword16": "Automated Tests",
+      "keyword17": "Unit Tests",
+      "keyword18": "Integration Tests",
+      "keyword19": "Security",
+      "keyword20": "Authentication",
+      "keyword21": "Authorization",
+      "keyword22": "Azure DevOps",
+      "keyword23": "Git",
+      "keyword24": "CI/CD",
+      "keyword25": "Clean Architecture",
+      "keyword26": "SOLID",
+      "keyword27": "Refactoring"
+    },
+    "g2": {
+      "role": "Full Stack Developer",
+      "period": "Sep 2025 - Present",
+      "duration": "7 mos",
+      "type": "Full-time",
+      "companyDescription": "G2 is a global software company focused on reviewing and comparing business solutions, helping buyers make more informed decisions with product insights and analysis.",
+      "description": "Working as a Software Engineer III (Senior) on high-impact projects, using modern technology to scale software review platforms.",
+      "impact1": "Built scalable architectures and data integrations to improve the user experience on enterprise-facing platforms.",
+      "impact2": "Collaborated with multidisciplinary teams to deliver features with a focus on quality, performance, and usability.",
+      "keyword1": "JavaScript",
+      "keyword2": "TypeScript",
+      "keyword3": "React",
+      "keyword4": "Next.js",
+      "keyword5": "RESTful APIs",
+      "keyword6": "Agile Development"
+    },
+    "ituran": {
+      "role": "Full Stack Developer",
+      "period": "Nov 2024 - May 2025",
+      "duration": "7 mos",
+      "type": "Full-time",
+      "companyDescription": "Develcode is a technology studio specializing in web and mobile development with modern frontend architectures.",
+      "description": "Worked on tracking and telemetry systems development, dealing with complex integrations and high-availability systems to ensure vehicle security.",
+      "impact1": "Rewrote the Garage module from the legacy SAM system to the new IRIS system, responsible for managing 1000 cars per day in maintenance. The module identifies vehicle issues, contacts customers, provides access to maintainers with tracker event analysis and AI suggestions for quick diagnosis. Performed full architecture transition from MOD, DAL and DLL to REST API with C#, applying Clean Architecture, SOLID principles and Swagger documentation.",
+      "impact2": "Implemented purge and cleanup JOBs for the Garage for events not identified as problems (monitored by AI), prioritizing employee experience. Developed the module with full versatility, allowing configuration of event inputs/outputs, JOB schedules, and practical reports. Also worked on optimizing procedures from legacy systems and presented IRIS modernization with a complete design system for standardization, better organization and maintenance.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Automated Tests",
+      "keyword28": "AWS",
+      "keyword29": "Design System",
+      "keyword30": "REST API"
+    },
+    "compass": {
+      "role": "Software Developer",
+      "period": "Aug 2024 - Feb 2025",
+      "duration": "7 mos",
+      "type": "Internship",
+      "companyDescription": "Compass UOL is a Brazilian multinational technology company focused on digital transformation and Artificial Intelligence (AI), developing corporate solutions with advanced technologies to accelerate innovation, optimize processes, and increase efficiency for large companies, recognized for its partnership with AWS and focus on AI Transformation.",
+      "description": "Participation in intensive training program focused on modern software development, emphasizing Cloud Computing, DevOps, and agile methodologies.",
+      "impact1": "Intensive immersion in Node.js, React, and AWS, developing skills in modern full-stack development technologies and cloud computing.",
+      "impact2": "Delivered the MVP (Minimum Viable Product) of the back-end system for Movida, a car rental company. The project was developed using Node.js / JavaScript and MySQL, applying SOLID principles and maintaining a clean and scalable code structure, following towards SaaS as the final project.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Automated Tests",
+      "keyword28": "AWS"
+    },
+    "zf": {
+      "role": "Full Stack Developer",
+      "period": "Jun 2023 - Jun 2024",
+      "duration": "1 yr",
+      "type": "Contractor - KLB Group",
+      "companyDescription": "Nuvox is a software services provider focused on digital transformation and full-stack web solutions.",
+      "description": "Development of solutions for automotive industry, working with embedded systems and software integrations for vehicles.",
+      "impact1": "Led the first containerizations of production lines to Kubernetes focusing on Deployment for availability and scalability when needed, also implemented monitoring through Datadog, which reduced SLA time for tickets and server availability issues by 90%.",
+      "impact2": "Developed the PDPQ Portal to centralize nearly 100 production lines that operated independently, creating a HUB to check health data, line production, and module management. This improved service and automated various procedures, such as ticket creation, new user creation, and permission assignment, being a true innovation for the team and for ZF Group at the Limeira unit.",
+      "keyword1": ".NET",
+      "keyword2": "C#",
+      "keyword3": "Azure DevOps",
+      "keyword4": "SQL Server",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "Clean Architecture",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "Procedures",
+      "keyword27": "Automated Tests"
+    }
+  },
+  "contact": {
+    "role": "Full Stack Developer",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "description": "I’m a Full Stack developer with experience building modern, scalable interfaces focused on performance and user experience. I work on the development of corporate web applications, SaaS and digital platforms, always prioritizing code organization, component reuse and frontend best practices.\n\nI have full stack experience working on the construction and integration of REST APIs, business rules and corporate systems, which gives me product perspective and facilitates communication between frontend and backend.",
+    "educationTitle": "Education",
+    "stackTitle": "Tech Stack",
+    "education": {
+      "usp": {
+        "degree": "Bachelor's Degree - Information Systems"
+      },
+      "senac": {
+        "degree": "Bachelor's Degree, Systems Analysis and Development"
+      },
+      "libano": {
+        "ai": "Lato Sensu Postgraduate - Specialization, Web Design",
+        "bi": "Lato Sensu Postgraduate - Specialization, Mobile Development"
+      }
+    }
+  }
+}
