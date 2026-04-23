@@ -107,7 +107,7 @@ export default function ContactModal({
           <p className={styles.role}>{t("role")}</p>
 
           <div className={styles.contactInfo}>
-            <a href="tel:+5519994644647" className={styles.contactItem}>
+            <a href="tel:+5519998164113" className={styles.contactItem}>
               <div className={styles.iconWrapper}>
                 <FaPhone />
               </div>
@@ -118,7 +118,7 @@ export default function ContactModal({
             </a>
 
             <a
-              href="mailto:gustavieiradev@gmail.com"
+              href="mailto:sophyadamiazodev@gmail.com"
               className={styles.contactItem}
             >
               <div className={styles.iconWrapper}>
