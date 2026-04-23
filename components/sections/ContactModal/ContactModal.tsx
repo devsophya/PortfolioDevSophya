@@ -107,7 +107,12 @@ export default function ContactModal({
           <p className={styles.role}>{t("role")}</p>
 
           <div className={styles.contactInfo}>
-            <a href="tel:+5519998164113" className={styles.contactItem}>
+            <a
+              href="https://wa.me/5519998164113"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.contactItem}
+            >
               <div className={styles.iconWrapper}>
                 <FaPhone />
               </div>
