@@ -113,7 +113,46 @@ export default function Works() {
                     ? "yr"
                     : "yrs";
     if (remainingMonths === 0) return `${years} ${yearSuffix}`;
-    return `${years}.${remainingMonths} ${yearSuffix}`;
+
+    const monthSuffix =
+      locale === "pt"
+        ? remainingMonths === 1
+          ? "mês"
+          : "meses"
+        : locale === "es"
+          ? remainingMonths === 1
+            ? "mes"
+            : "meses"
+          : locale === "fr"
+            ? "mois"
+            : locale === "it"
+              ? remainingMonths === 1
+                ? "mese"
+                : "mesi"
+              : locale === "ja"
+                ? "ヶ月"
+                : locale === "zh"
+                  ? "个月"
+                  : remainingMonths === 1
+                    ? "mo"
+                    : "mos";
+
+    const andWord =
+      locale === "pt"
+        ? "e"
+        : locale === "es"
+          ? "y"
+          : locale === "fr"
+            ? "et"
+            : locale === "it"
+              ? "e"
+              : "";
+
+    if (locale === "ja" || locale === "zh") {
+      return `${years}${yearSuffix}${remainingMonths}${monthSuffix}`;
+    }
+
+    return `${years} ${yearSuffix} ${andWord} ${remainingMonths} ${monthSuffix}`;
   };
 
   const handleMouseDown = (e: React.MouseEvent) => {
@@ -213,98 +252,11 @@ export default function Works() {
       ],
     },
     {
-      id: "ituran",
-      company: "Develcode",
-      role: t("ituran.role"),
-      period: t("ituran.period"),
-      duration: t("ituran.duration"),
-      location: "São Paulo, Brasil · Remota",
-      type: t("ituran.type"),
-      logo: "/images/works/ImageDevelcode.png",
-      descriptionKey: "ituran.description",
-      companyDescriptionKey: "ituran.companyDescription",
-      impactsKey: ["ituran.impact1", "ituran.impact2"],
-      keywordsKey: [
-        "ituran.keyword1",
-        "ituran.keyword2",
-        "ituran.keyword3",
-        "ituran.keyword4",
-        "ituran.keyword5",
-        "ituran.keyword6",
-        "ituran.keyword7",
-        "ituran.keyword8",
-        "ituran.keyword9",
-        "ituran.keyword10",
-        "ituran.keyword11",
-        "ituran.keyword12",
-        "ituran.keyword13",
-        "ituran.keyword14",
-        "ituran.keyword15",
-        "ituran.keyword16",
-        "ituran.keyword17",
-        "ituran.keyword18",
-        "ituran.keyword19",
-        "ituran.keyword20",
-        "ituran.keyword21",
-        "ituran.keyword22",
-        "ituran.keyword23",
-        "ituran.keyword24",
-        "ituran.keyword25",
-        "ituran.keyword26",
-        "ituran.keyword27",
-        "ituran.keyword28",
-        "ituran.keyword29",
-        "ituran.keyword30",
-      ],
-    },
-    {
-      id: "localiza",
-      company: "MiniCentral Games",
-      role: t("localiza.role"),
-      period: t("localiza.period"),
-      duration: t("localiza.duration"),
-      location: "São Paulo, Brasil · Remota",
-      type: t("localiza.type"),
-      logo: "/images/works/ImageMiniCentral.jpg",
-      descriptionKey: "localiza.description",
-      companyDescriptionKey: "localiza.companyDescription",
-      impactsKey: ["localiza.impact1", "localiza.impact2"],
-      keywordsKey: [
-        "localiza.keyword1",
-        "localiza.keyword2",
-        "localiza.keyword3",
-        "localiza.keyword4",
-        "localiza.keyword5",
-        "localiza.keyword6",
-        "localiza.keyword7",
-        "localiza.keyword8",
-        "localiza.keyword9",
-        "localiza.keyword10",
-        "localiza.keyword11",
-        "localiza.keyword12",
-        "localiza.keyword13",
-        "localiza.keyword14",
-        "localiza.keyword15",
-        "localiza.keyword16",
-        "localiza.keyword17",
-        "localiza.keyword18",
-        "localiza.keyword19",
-        "localiza.keyword20",
-        "localiza.keyword21",
-        "localiza.keyword22",
-        "localiza.keyword23",
-        "localiza.keyword24",
-        "localiza.keyword25",
-        "localiza.keyword26",
-        "localiza.keyword27",
-      ],
-    },
-    {
       id: "g2",
       company: "G2",
       role: t("g2.role"),
       period: t("g2.period"),
-      duration: getLocalizaDuration(new Date(2025, 8, 1)),
+      duration: getLocalizaDuration(new Date(2025, 1, 1)),
       location: "São Paulo, Brasil · Remota",
       type: t("g2.type"),
       logo: "/images/works/ImageG2.jpg",
@@ -343,7 +295,7 @@ export default function Works() {
         >
           <div className={styles.timelineLine}></div>
 
-          {experiences.map((exp, index) => (
+          {experiences.map((exp) => (
             <div key={exp.id} className={styles.timelineItem}>
               <div className={styles.timelineDot}></div>
               <div className={styles.experienceCard}>
