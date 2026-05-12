@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "description": "I’m a Full Stack developer with experience building modern, scalable interfaces focused on performance and user experience. I work on the development of corporate web applications, SaaS and digital platforms, always prioritizing code organization, component reuse and frontend best practices.\n\nI have full stack experience working on the construction and integration of REST APIs, business rules and corporate systems, which gives me product perspective and facilitates communication between frontend and backend.",
+    "description": "I’m a Full Stack Developer with experience building corporate web applications, SaaS platforms, and digital products, developing modern, scalable interfaces focused on performance and user experience.\n\nOn the frontend, I prioritize clean code, component reuse, development best practices, and intuitive interfaces. On the backend, I work with API integrations, business rules, and enterprise systems, which gives me a more strategic product perspective and helps connect different technical areas.\n\nI enjoy working in dynamic environments, solving problems pragmatically, and contributing to the evolution of products that create real impact for users and businesses.",
     "educationTitle": "Education",
     "stackTitle": "Tech Stack",
     "education": {

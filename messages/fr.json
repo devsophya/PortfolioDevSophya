@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "À Propos de Moi",
-    "description": "Je suis développeuse Full Stack, avec une expérience dans la construction d'interfaces modernes, évolutives et orientées vers la performance et l'expérience utilisateur. Je travaille au développement d'applications web d'entreprise, de SaaS et de plateformes digitales, en privilégiant toujours l'organisation du code, la réutilisation des composants et les bonnes pratiques frontend.\n\nJ'ai une expérience full stack, en travaillant sur la construction et l'intégration d'APIs REST, de règles métier et de systèmes d'entreprise, ce qui me donne une vision produit et facilite la communication entre le frontend et le backend.",
+    "description": "Je suis développeuse Full Stack avec de l’expérience dans la création d’applications web d’entreprise, de plateformes SaaS et de produits digitaux, en développant des interfaces modernes, évolutives et centrées sur la performance et l’expérience utilisateur.\n\nSur le frontend, je privilégie un code propre, la réutilisation des composants, les bonnes pratiques de développement et des interfaces intuitives. Côté backend, je travaille sur l’intégration d’API, les règles métier et les systèmes d’entreprise, ce qui me donne une vision plus stratégique du produit et facilite la connexion entre différentes équipes techniques.\n\nJ’aime évoluer dans des environnements dynamiques, résoudre les problèmes de manière pragmatique et contribuer à faire progresser des produits qui ont un impact réel pour les utilisateurs et les entreprises.",
     "educationTitle": "Formation",
     "stackTitle": "Technologies",
     "education": {
