@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Sophya Damiazo - Desenvolvedora Full Stack",
+    "title": "Sophya Damiazo - Desenvolvedora Front End",
     "description": "Gustavo Vieira - Engenheiro de Software com mais de 5 anos de experiência. Especializado em React, Next.js, TypeScript, Python e tecnologias modernas. Construindo soluções escaláveis e inovadoras.",
     "keywords": "Engenheiro de Software, Desenvolvedor Full Stack, React, Next.js, TypeScript, Python, Desenvolvimento Web, Gustavo Vieira"
   },
@@ -13,7 +13,7 @@
     }
   },
   "hero": {
-    "title": "Desenvolvedora Full Stack",
+    "title": "Desenvolvedora Front End",
     "subtitle": "Atualmente, eu sou engenheiro de software na",
     "greeting": "Olá, eu sou",
     "name": "Gustavo Vieira",
@@ -65,7 +65,7 @@
     "impactsLabel": "Principais Impactos",
     "keywordsLabel": "Tecnologias e Habilidades",
     "novorumo": {
-      "role": "Desenvolvedora Full Stack",
+      "role": "Desenvolvedora de Software",
       "period": "jan de 2023 - jun de 2023",
       "duration": "6 meses",
       "type": "Estágio",
@@ -121,7 +121,7 @@
       "keyword27": "Refatoração"
     },
     "g2": {
-      "role": "Desenvolvedora Full Stack",
+      "role": "Desenvolvedora Front End",
       "period": "fev de 2025 - o momento",
       "duration": "7 meses",
       "type": "Tempo Integral",
@@ -137,7 +137,7 @@
       "keyword6": "Desenvolvimento Ágil"
     },
     "ituran": {
-      "role": "Desenvolvedora Full Stack",
+      "role": "Desenvolvedora Front End",
       "period": "nov de 2024 - mai de 2025",
       "duration": "7 meses",
       "type": "Tempo Integral",
@@ -215,7 +215,7 @@
       "keyword28": "AWS"
     },
     "zf": {
-      "role": "Desenvolvedora Full Stack",
+      "role": "Desenvolvedora Front End",
       "period": "jun de 2023 - fev de 2025",
       "duration": "1 ano e 8 meses",
       "type": "Terceirizado - KLB Group",
@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "Sobre Mim",
-    "description": "Sou Desenvolvedora Full Stack com experiência na criação de aplicações web corporativas, plataformas SaaS e produtos digitais, desenvolvendo interfaces modernas, escaláveis e focadas em performance e experiência do usuário.\n\nNo frontend, priorizo código limpo, reutilização de componentes, boas práticas de desenvolvimento e interfaces intuitivas. Já no backend, atuo com integrações de APIs, regras de negócio e sistemas corporativos, o que me proporciona uma visão mais estratégica do produto e facilita a conexão entre diferentes áreas técnicas.\n\nGosto de atuar em ambientes dinâmicos, resolver problemas de forma prática e contribuir para a evolução de produtos que gerem impacto real para usuários e negócios.",
+    "description": "Sou desenvolvedora com foco em Front End e experiência no desenvolvimento de aplicações web corporativas, plataformas SaaS e produtos digitais, criando interfaces modernas, escaláveis e voltadas para performance e experiência do usuário.\n\nNo frontend, priorizo código limpo, reutilização de componentes, boas práticas de desenvolvimento e a construção de interfaces intuitivas e responsivas. Também possuo experiência no backend com integrações de APIs, regras de negócio e sistemas corporativos, o que amplia minha visão sobre o produto e facilita a conexão entre diferentes áreas técnicas.\n\nGosto de atuar em ambientes dinâmicos, resolver problemas de forma prática e contribuir para a evolução de produtos que gerem impacto real para usuários e negócios.",
     "educationTitle": "Formação",
     "stackTitle": "Tecnologias",
     "education": {

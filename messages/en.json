@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Sophya Damiazo - Full Stack Developer",
+    "title": "Sophya Damiazo - Front End Developer",
     "description": "Gustavo Vieira - Software Engineer with 5+ years of experience. Specialized in React, Next.js, TypeScript, Python and modern technologies. Building scalable and innovative solutions.",
     "keywords": "Software Engineer, Full Stack Developer, React, Next.js, TypeScript, Python, Web Development, Gustavo Vieira"
   },
@@ -13,7 +13,7 @@
     }
   },
   "hero": {
-    "title": "Full Stack Developer",
+    "title": "Front End Developer",
     "subtitle": "Currently, I'm a software engineer at",
     "greeting": "Hi, I'm",
     "name": "Gustavo Vieira",
@@ -65,7 +65,7 @@
     "impactsLabel": "Key Impacts",
     "keywordsLabel": "Technologies and Skills",
     "novorumo": {
-      "role": "Full Stack Developer",
+      "role": "Software Developer",
       "period": "Jan 2023 - Jun 2023",
       "duration": "6 mos",
       "type": "Internship",
@@ -121,7 +121,7 @@
       "keyword27": "Refactoring"
     },
     "g2": {
-      "role": "Full Stack Developer",
+      "role": "Front End Developer",
       "period": "Feb 2025 - Present",
       "duration": "7 mos",
       "type": "Full-time",
@@ -137,7 +137,7 @@
       "keyword6": "Agile Development"
     },
     "ituran": {
-      "role": "Full Stack Developer",
+      "role": "Front End Developer",
       "period": "Nov 2024 - May 2025",
       "duration": "7 mos",
       "type": "Full-time",
@@ -215,7 +215,7 @@
       "keyword28": "AWS"
     },
     "zf": {
-      "role": "Full Stack Developer",
+      "role": "Front End Developer",
       "period": "Jun 2023 - Feb 2025",
       "duration": "1 yr 8 mos",
       "type": "Contractor - KLB Group",
@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "description": "I’m a Full Stack Developer with experience building corporate web applications, SaaS platforms, and digital products, developing modern, scalable interfaces focused on performance and user experience.\n\nOn the frontend, I prioritize clean code, component reuse, development best practices, and intuitive interfaces. On the backend, I work with API integrations, business rules, and enterprise systems, which gives me a more strategic product perspective and helps connect different technical areas.\n\nI enjoy working in dynamic environments, solving problems pragmatically, and contributing to the evolution of products that create real impact for users and businesses.",
+    "description": "I’m a Front End-focused developer with experience building corporate web applications, SaaS platforms, and digital products, creating modern, scalable interfaces centered on performance and user experience.\n\nOn the frontend, I prioritize clean code, component reuse, development best practices, and building intuitive, responsive interfaces. I also have backend experience with API integrations, business rules, and enterprise systems, which broadens my product perspective and helps connect different technical areas.\n\nI enjoy working in dynamic environments, solving problems pragmatically, and contributing to the evolution of products that create real impact for users and businesses.",
     "educationTitle": "Education",
     "stackTitle": "Tech Stack",
     "education": {

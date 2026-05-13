@@ -44,6 +44,7 @@ export default function AboutMe() {
     { name: "Figma", icon: "/images/aboutMe/Techs/ImageFigma.svg" },
     { name: "Tailwind", icon: "/images/aboutMe/Techs/ImageTailwind.svg" },
     { name: "Behance", icon: "/images/aboutMe/Techs/ImageBehance.webp" },
+      { name: "Single SPA", icon: "/images/aboutMe/Techs/ImageSingleSPA.png" }
   ];
 
   const techsRight = [
@@ -57,7 +58,6 @@ export default function AboutMe() {
     { name: "MongoDB", icon: "/images/aboutMe/Techs/ImageMongoDb.svg" },
     { name: "PostgreSQL", icon: "/images/aboutMe/Techs/ImagePostgresql.svg" },
     { name: "Node.js", icon: "/images/aboutMe/Techs/ImageNode.svg" },
-    { name: "Single SPA", icon: "/images/aboutMe/Techs/ImageSingleSPA.png" },
     { name: "Java", icon: "/images/aboutMe/Techs/ImageJava.svg" },
 
   ];

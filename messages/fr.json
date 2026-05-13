@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Sophya Damiazo - Développeuse Full Stack",
+    "title": "Sophya Damiazo - Développeuse Front End",
     "description": "Gustavo Vieira - Ingénieur logiciel avec plus de 5 ans d'expérience. Spécialisé en React, Next.js, TypeScript, Python et technologies modernes. Création de solutions évolutives et innovantes.",
     "keywords": "Ingénieur Logiciel, Développeur Full Stack, React, Next.js, TypeScript, Python, Développement Web, Gustavo Vieira"
   },
@@ -13,7 +13,7 @@
     }
   },
   "hero": {
-    "title": "Développeuse Full Stack",
+    "title": "Développeuse Front End",
     "subtitle": "Actuellement, je suis ingénieur logiciel chez",
     "greeting": "Bonjour, je suis",
     "name": "Gustavo Vieira",
@@ -121,7 +121,7 @@
       "keyword27": "Refactorisation"
     },
     "g2": {
-      "role": "Développeuse Full Stack",
+      "role": "Développeuse Front End",
       "period": "févr 2025 - Présent",
       "duration": "7 mois",
       "type": "Temps plein",
@@ -137,7 +137,7 @@
       "keyword6": "Développement Agile"
     },
     "ituran": {
-      "role": "Développeuse Full Stack",
+      "role": "Développeuse Front End",
       "period": "nov 2024 - mai 2025",
       "duration": "7 mois",
       "type": "Temps plein",
@@ -215,7 +215,7 @@
       "keyword28": "AWS"
     },
     "zf": {
-      "role": "Développeuse Full Stack",
+      "role": "Développeuse Front End",
       "period": "juin 2023 - févr 2025",
       "duration": "1 an et 8 mois",
       "type": "Contractuel - KLB Group",
@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "À Propos de Moi",
-    "description": "Je suis développeuse Full Stack avec de l’expérience dans la création d’applications web d’entreprise, de plateformes SaaS et de produits digitaux, en développant des interfaces modernes, évolutives et centrées sur la performance et l’expérience utilisateur.\n\nSur le frontend, je privilégie un code propre, la réutilisation des composants, les bonnes pratiques de développement et des interfaces intuitives. Côté backend, je travaille sur l’intégration d’API, les règles métier et les systèmes d’entreprise, ce qui me donne une vision plus stratégique du produit et facilite la connexion entre différentes équipes techniques.\n\nJ’aime évoluer dans des environnements dynamiques, résoudre les problèmes de manière pragmatique et contribuer à faire progresser des produits qui ont un impact réel pour les utilisateurs et les entreprises.",
+    "description": "Je suis développeuse avec un focus Front End et une expérience dans le développement d’applications web d’entreprise, de plateformes SaaS et de produits digitaux, en créant des interfaces modernes, évolutives et orientées performance et expérience utilisateur.\n\nSur le frontend, je privilégie un code propre, la réutilisation des composants, les bonnes pratiques de développement et la construction d’interfaces intuitives et responsives. J’ai aussi une expérience côté backend avec des intégrations d’API, des règles métier et des systèmes d’entreprise, ce qui élargit ma vision produit et facilite la connexion entre différentes disciplines techniques.\n\nJ’aime évoluer dans des environnements dynamiques, résoudre les problèmes de manière pragmatique et contribuer à l’évolution de produits qui génèrent un impact réel pour les utilisateurs et les entreprises.",
     "educationTitle": "Formation",
     "stackTitle": "Technologies",
     "education": {

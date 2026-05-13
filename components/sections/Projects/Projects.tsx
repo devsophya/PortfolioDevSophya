@@ -26,19 +26,6 @@ export default function Projects() {
   const dragDeltaRef = useRef(0);
   const activePointerIdRef = useRef<number | null>(null);
 
-  useEffect(() => {
-    const handleResize = () => {
-      setItemsPerPage(window.innerWidth <= 1024 ? 1 : 2);
-    };
-
-    handleResize();
-    window.addEventListener("resize", handleResize);
-
-    return () => {
-      window.removeEventListener("resize", handleResize);
-    };
-  }, []);
-
   const projects: Project[] = [
     {
       id: "minicentralgames",
@@ -100,10 +87,21 @@ export default function Projects() {
   const canNext = currentIndex < maxIndex;
 
   useEffect(() => {
-    if (currentIndex > maxIndex) {
-      setCurrentIndex(maxIndex);
-    }
-  }, [currentIndex, maxIndex]);
+    const handleResize = () => {
+      const nextItemsPerPage = window.innerWidth <= 1024 ? 1 : 2;
+      const nextMaxIndex = Math.max(Math.ceil(projects.length / nextItemsPerPage) - 1, 0);
+
+      setItemsPerPage(nextItemsPerPage);
+      setCurrentIndex((prev) => Math.min(prev, nextMaxIndex));
+    };
+
+    handleResize();
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, [projects.length]);
 
   const handlePrev = () => {
     setCurrentIndex((prev) => Math.max(prev - 1, 0));

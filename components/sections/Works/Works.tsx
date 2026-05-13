@@ -28,6 +28,17 @@ export default function Works() {
   const [startX, setStartX] = useState(0);
   const [scrollLeft, setScrollLeft] = useState(0);
 
+  const getYearsOfExperience = (startDate: Date) => {
+    const now = new Date();
+    const months =
+      (now.getFullYear() - startDate.getFullYear()) * 12 +
+      (now.getMonth() - startDate.getMonth());
+    return Math.max(1, Math.floor(months / 12));
+  };
+
+  // Earliest experience start (Jan 2023)
+  const yearsOfExperience = getYearsOfExperience(new Date(2023, 0, 1));
+
   useEffect(() => {
     // Scroll to the end (most recent experience) on mount
     if (timelineRef.current) {
@@ -188,13 +199,13 @@ export default function Works() {
   const experiences: Experience[] = [
     {
       id: "novorumo",
-      company: "Covre",
+      company: "Develcode",
       role: t("novorumo.role"),
       period: t("novorumo.period"),
       duration: t("novorumo.duration"),
       location: "São Paulo, Brasil · Full-time",
       type: t("novorumo.type"),
-      logo: "/images/works/ImageCovre.webp",
+      logo: "/images/works/ImageDevelcode.png",
       descriptionKey: "novorumo.description",
       companyDescriptionKey: "novorumo.companyDescription",
       impactsKey: ["novorumo.impact1", "novorumo.impact2", "novorumo.impact3"],
@@ -278,7 +289,7 @@ export default function Works() {
     <section id="works" className={styles.works}>
       <div className={styles.container}>
         <div className={styles.experienceCounter}>
-          <span className={styles.counterNumber}>+3</span>
+          <span className={styles.counterNumber}>+{yearsOfExperience}</span>
           <span className={styles.counterLabel}>{t("yearsOfExperience")}</span>
         </div>
 
