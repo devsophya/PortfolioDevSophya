@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "description": "I’m a Front End-focused developer with experience building corporate web applications, SaaS platforms, and digital products, creating modern, scalable interfaces centered on performance and user experience.\n\nOn the frontend, I prioritize clean code, component reuse, development best practices, and building intuitive, responsive interfaces. I also have backend experience with API integrations, business rules, and enterprise systems, which broadens my product perspective and helps connect different technical areas.\n\nI enjoy working in dynamic environments, solving problems pragmatically, and contributing to the evolution of products that create real impact for users and businesses.",
+    "description": "I’m a Front End-focused developer with experience building scalable web applications, SaaS platforms, and enterprise systems—creating modern, intuitive interfaces with performance in mind.\n\nI mainly work with React, Next.js, Angular, and TypeScript, focusing on componentization, development best practices, and building responsive experiences.\n\nI also have Full Stack experience with Java, REST APIs, SQL/NoSQL databases, and cloud, which broadens my product perspective and how I think about integration across technical areas.\n\nI enjoy solving problems pragmatically and contributing to products that create real impact for users and businesses.",
     "educationTitle": "Education",
     "stackTitle": "Tech Stack",
     "education": {

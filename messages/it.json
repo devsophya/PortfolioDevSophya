@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "Chi Sono",
-    "description": "Sono una sviluppatrice con focus sul Front End e con esperienza nello sviluppo di applicazioni web aziendali, piattaforme SaaS e prodotti digitali, creando interfacce moderne, scalabili e orientate a performance ed esperienza utente.\n\nNel frontend, do priorità a codice pulito, riutilizzo dei componenti, buone pratiche di sviluppo e alla costruzione di interfacce intuitive e responsive. Ho anche esperienza nel backend con integrazioni di API, regole di business e sistemi aziendali: questo amplia la mia visione sul prodotto e facilita la connessione tra diverse aree tecniche.\n\nMi piace lavorare in contesti dinamici, risolvere i problemi in modo pratico e contribuire all’evoluzione di prodotti che generano un impatto reale per utenti e aziende.",
+    "description": "Sono una sviluppatrice con focus sul Front End e con esperienza nello sviluppo di applicazioni web scalabili, piattaforme SaaS e sistemi aziendali, creando interfacce moderne, intuitive e orientate alle performance.\n\nLavoro principalmente con React, Next.js, Angular e TypeScript, con attenzione alla componentizzazione, alle buone pratiche di sviluppo e alla creazione di esperienze responsive.\n\nHo anche esperienza Full Stack con Java, API REST, database SQL/NoSQL e cloud, che amplia la mia visione di prodotto e l’integrazione tra diverse aree tecniche.\n\nMi piace risolvere i problemi in modo pratico e contribuire a prodotti che generano un impatto reale per utenti e aziende.",
     "educationTitle": "Formazione",
     "stackTitle": "Tecnologie",
     "education": {
