@@ -14,6 +14,11 @@ interface Education {
 export default function AboutMe() {
   const t = useTranslations("aboutMe");
 
+  const descriptionParagraphs = t("description")
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+
   const education: Education[] = [
     {
       institution: "Universidade Cruzeiro do Sul",
@@ -131,7 +136,13 @@ export default function AboutMe() {
               </div>
             </div>
           </div>
-          <p className={styles.description}>{t("description")}</p>
+          <div className={styles.description}>
+            {descriptionParagraphs.map((paragraph, index) => (
+              <p key={index} className={styles.descriptionParagraph}>
+                {paragraph}
+              </p>
+            ))}
+          </div>
 
           <div className={styles.educationGrid}>
             {education.map((edu, index) => (
