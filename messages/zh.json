@@ -17,22 +17,7 @@
     "subtitle": "目前，我是一名软件工程师在",
     "greeting": "你好，我是",
     "name": "Gustavo Vieira",
-    "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验",
-    "cta": {
-      "primary": "查看项目",
-      "secondary": "联系我"
-    }
-  },
-  "footer": {
-    "rights": "保留所有权利",
-    "social": "社交媒体"
-  },
-  "bottomNav": {
-    "home": "首页",
-    "aboutme": "关于我",
-    "works": "作品",
-    "projects": "项目",
-    "contact": "联系"
+    "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验"
   },
   "projects": {
     "title": "项目",

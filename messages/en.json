@@ -259,7 +259,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "description": "I’m a Front End-focused developer with experience building scalable web applications, SaaS platforms, and enterprise systems—creating modern, intuitive interfaces with performance in mind.\n\nI mainly work with React, Next.js, Angular, and TypeScript, focusing on componentization, development best practices, and building responsive experiences.\n\nI also have Full Stack experience with Java, REST APIs, SQL/NoSQL databases, and cloud, which broadens my product perspective and how I think about integration across technical areas.\n\nI enjoy solving problems pragmatically and contributing to products that create real impact for users and businesses.",
+    "description": "Front End Developer with over 3 years of experience building scalable, high-performance web interfaces using React, Next.js, TypeScript, Angular, and JavaScript.\n\nI work from defining solutions and front-end architectural decisions to production delivery, contributing to the evolution of applications through microfrontends, Design Systems, and performance optimizations, always focusing on scalability, maintainability, and user experience.\n\nWith strong software engineering practices, automated testing, and integration with REST APIs, I collaborate with multidisciplinary teams to develop reliable, sustainable digital products aligned with business goals.",
     "educationTitle": "Education",
     "stackTitle": "Tech Stack",
     "education": {

@@ -23,19 +23,19 @@ export default function AboutMe() {
     {
       institution: "Universidade Cruzeiro do Sul",
       degree: t("education.usp.degree"),
-      period: "2023 - 2026",
+      period: "2022 - 2026",
       logo: "/images/aboutMe/ImageCruzeiro.png",
     },
     {
       institution: "Líbano",
       degree: t("education.libano.ai"),
-      period: "2025 - 2026",
+      period: "2026 - 2026",
       logo: "/images/aboutMe/ImageLibano.svg",
     },
     {
       institution: "Líbano",
       degree: t("education.libano.bi"),
-      period: "2025 - 2026",
+      period: "2026 - 2026",
       logo: "/images/aboutMe/ImageLibano.svg",
     },
   ];

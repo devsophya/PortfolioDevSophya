@@ -17,22 +17,7 @@
     "subtitle": "Attualmente, sono un ingegnere del software presso",
     "greeting": "Ciao, sono",
     "name": "Gustavo Vieira",
-    "description": "Creare esperienze digitali straordinarie con codice pulito e design moderno",
-    "cta": {
-      "primary": "Vedi Progetti",
-      "secondary": "Contattami"
-    }
-  },
-  "footer": {
-    "rights": "Tutti i diritti riservati",
-    "social": "Social Media"
-  },
-  "bottomNav": {
-    "home": "Home",
-    "aboutme": "Chi Sono",
-    "works": "Lavori",
-    "projects": "Progetti",
-    "contact": "Contatto"
+    "description": "Creare esperienze digitali straordinarie con codice pulito e design moderno"
   },
   "projects": {
     "title": "Progetti",
