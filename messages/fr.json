@@ -17,7 +17,22 @@
     "subtitle": "Actuellement, je suis ingénieure logicielle chez",
     "greeting": "Bonjour, je suis",
     "name": "Sophya Damiazo",
-    "description": "Créer des expériences numériques incroyables avec un code propre et un design moderne"
+    "description": "Créer des expériences numériques incroyables avec un code propre et un design moderne",
+    "cta": {
+      "primary": "Voir les Projets",
+      "secondary": "Me Contacter"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "social": "Réseaux Sociaux"
+  },
+  "bottomNav": {
+    "home": "Accueil",
+    "aboutme": "À Propos",
+    "works": "Travaux",
+    "projects": "Projets",
+    "contact": "Contact"
   },
   "projects": {
     "title": "Projets",

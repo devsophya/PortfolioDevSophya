@@ -17,7 +17,22 @@
     "subtitle": "Attualmente, sono un'ingegnera del software presso",
     "greeting": "Ciao, sono",
     "name": "Sophya Damiazo",
-    "description": "Creare esperienze digitali straordinarie con codice pulito e design moderno"
+    "description": "Creare esperienze digitali straordinarie con codice pulito e design moderno",
+    "cta": {
+      "primary": "Vedi i Progetti",
+      "secondary": "Contattami"
+    }
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "social": "Social"
+  },
+  "bottomNav": {
+    "home": "Home",
+    "aboutme": "Chi Sono",
+    "works": "Lavori",
+    "projects": "Progetti",
+    "contact": "Contatti"
   },
   "projects": {
     "title": "Progetti",

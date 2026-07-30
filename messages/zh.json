@@ -17,7 +17,22 @@
     "subtitle": "目前，我是一名软件工程师在",
     "greeting": "你好，我是",
     "name": "Sophya Damiazo",
-    "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验"
+    "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验",
+    "cta": {
+      "primary": "查看项目",
+      "secondary": "联系我"
+    }
+  },
+  "footer": {
+    "rights": "版权所有",
+    "social": "社交媒体"
+  },
+  "bottomNav": {
+    "home": "首页",
+    "aboutme": "关于我",
+    "works": "作品",
+    "projects": "项目",
+    "contact": "联系"
   },
   "projects": {
     "title": "项目",
@@ -163,7 +178,9 @@
     },
     "compass": {
       "role": "软件开发者",
-      "period": "2024年8月 - 2025年2月",      "duration": "7个月",      "type": "实习",
+      "period": "2024年8月 - 2025年2月",
+      "duration": "7个月",
+      "type": "实习",
       "companyDescription": "Compass UOL是一家专注于数字化转型和人工智能（AI）的巴西跨国科技公司，利用先进技术开发企业解决方案以加速创新、优化流程和提高大型企业的效率，以其与AWS的合作伙伴关系和对AI转型的关注而闻名。",
       "description": "参与专注于现代软件开发的强化培训计划，重点是云计算、DevOps和敏捷方法。",
       "impact1": "深入学习Node.js、React和AWS，发展现代全栈开发技术和云计算技能。",
@@ -202,6 +219,7 @@
       "period": "2023年6月 - 2025年2月",
       "duration": "1年8个月",
       "type": "合同工",
+      "companyDescription": "采埃孚集团（ZF Group）是全球汽车行业的领导者之一，在制造执行系统（MES）领域提供先进解决方案，涵盖电子设备、助力转向、制动系统、安全气囊和转向器等关键部件。",
       "description": "为汽车行业开发解决方案，使用嵌入式系统和车辆软件集成。",
       "impact1": "为汽车行业开发系统",
       "impact2": "嵌入式软件与企业系统集成",
@@ -209,7 +227,30 @@
       "keyword1": "C#",
       "keyword2": ".NET",
       "keyword3": "SQL Server",
-      "keyword4": "Azure DevOps"
+      "keyword4": "Azure DevOps",
+      "keyword5": "MongoDB",
+      "keyword6": "React",
+      "keyword7": "Next.js",
+      "keyword8": "TypeScript",
+      "keyword9": "Node.js",
+      "keyword10": "Docker",
+      "keyword11": "Kubernetes",
+      "keyword12": "RabbitMQ",
+      "keyword13": "Azure Service Bus",
+      "keyword14": "Kafka",
+      "keyword15": "SOLID",
+      "keyword16": "整洁架构",
+      "keyword17": "DDD",
+      "keyword18": "TDD",
+      "keyword19": "xUnit",
+      "keyword20": "OAuth2",
+      "keyword21": "JWT",
+      "keyword22": "GraphQL",
+      "keyword23": "Figma",
+      "keyword24": "CI/CD",
+      "keyword25": "Git",
+      "keyword26": "存储过程",
+      "keyword27": "自动化测试"
     }
   },
   "contact": {
