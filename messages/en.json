@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - Front End Developer",
-    "description": "Gustavo Vieira - Software Engineer with 5+ years of experience. Specialized in React, Next.js, TypeScript, Python and modern technologies. Building scalable and innovative solutions.",
-    "keywords": "Software Engineer, Full Stack Developer, React, Next.js, TypeScript, Python, Web Development, Gustavo Vieira"
+    "description": "Sophya Damiazo - Software Engineer with 5+ years of experience. Specialized in React, Next.js, TypeScript, Python and modern technologies. Building scalable and innovative solutions.",
+    "keywords": "Software Engineer, Front End Developer, React, Next.js, TypeScript, Python, Web Development, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -16,7 +16,7 @@
     "title": "Front End Developer",
     "subtitle": "Currently, I'm a software engineer at",
     "greeting": "Hi, I'm",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "Building amazing digital experiences with clean code and modern design",
     "cta": {
       "primary": "View Projects",
@@ -253,7 +253,7 @@
     }
   },
   "contact": {
-    "role": "Full Stack Developer",
+    "role": "Front End Developer",
     "phone": "Phone",
     "email": "Email"
   },
@@ -270,7 +270,7 @@
         "degree": "Bachelor's Degree, Systems Analysis and Development"
       },
       "libano": {
-        "ai": "Lato Sensu Postgraduate - Specialization, Web Design",
+        "ai": "Lato Sensu Postgraduate - Specialization, Artificial Intelligence",
         "bi": "Lato Sensu Postgraduate - Specialization, Mobile Development"
       }
     }

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - Desarrolladora Front End",
-    "description": "Gustavo Vieira - Ingeniero de software con más de 5 años de experiencia. Especializado en React, Next.js, TypeScript, Python y tecnologías modernas. Construyendo soluciones escalables e innovadoras.",
-    "keywords": "Ingeniero de Software, Desarrollador Full Stack, React, Next.js, TypeScript, Python, Desarrollo Web, Gustavo Vieira"
+    "description": "Sophya Damiazo - Ingeniera de software con más de 5 años de experiencia. Especializada en React, Next.js, TypeScript, Python y tecnologías modernas. Construyendo soluciones escalables e innovadoras.",
+    "keywords": "Ingeniera de Software, Desarrolladora Front End, React, Next.js, TypeScript, Python, Desarrollo Web, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -14,9 +14,9 @@
   },
   "hero": {
     "title": "Desarrolladora Front End",
-    "subtitle": "Actualmente, soy ingeniero de software en",
+    "subtitle": "Actualmente, soy ingeniera de software en",
     "greeting": "Hola, soy",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "Creando experiencias digitales increíbles con código limpio y diseño moderno",
     "cta": {
       "primary": "Ver Proyectos",
@@ -65,7 +65,7 @@
     "impactsLabel": "Impactos Principales",
     "keywordsLabel": "Tecnologías y Habilidades",
     "novorumo": {
-      "role": "Desarrolladora Full Stack",
+      "role": "Desarrolladora de Software",
       "period": "ene de 2023 - jun de 2023",
       "duration": "6 meses",
       "type": "Prácticas",
@@ -253,7 +253,7 @@
     }
   },
   "contact": {
-    "role": "Desarrolladora Full Stack",
+    "role": "Desarrolladora Front End",
     "phone": "Teléfono",
     "email": "Correo"
   },
@@ -270,7 +270,7 @@
         "degree": "Licenciatura, Análisis y Desarrollo de Sistemas"
       },
       "libano": {
-        "ai": "Posgrado Lato Sensu - Especialización, Web Design",
+        "ai": "Posgrado Lato Sensu - Especialización, Inteligencia Artificial",
         "bi": "Posgrado Lato Sensu - Especialización, Desarrollo Mobile"
       }
     }

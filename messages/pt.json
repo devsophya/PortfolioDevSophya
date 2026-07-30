@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - Desenvolvedora Front End",
-    "description": "Gustavo Vieira - Engenheiro de Software com mais de 5 anos de experiência. Especializado em React, Next.js, TypeScript, Python e tecnologias modernas. Construindo soluções escaláveis e inovadoras.",
-    "keywords": "Engenheiro de Software, Desenvolvedor Full Stack, React, Next.js, TypeScript, Python, Desenvolvimento Web, Gustavo Vieira"
+    "description": "Sophya Damiazo - Engenheira de Software com mais de 5 anos de experiência. Especializada em React, Next.js, TypeScript, Python e tecnologias modernas. Construindo soluções escaláveis e inovadoras.",
+    "keywords": "Engenheira de Software, Desenvolvedora Front End, React, Next.js, TypeScript, Python, Desenvolvimento Web, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -14,9 +14,9 @@
   },
   "hero": {
     "title": "Desenvolvedora Front End",
-    "subtitle": "Atualmente, eu sou engenheiro de software na",
+    "subtitle": "Atualmente, eu sou engenheira de software na",
     "greeting": "Olá, eu sou",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "Criando experiências digitais incríveis com código limpo e design moderno",
     "cta": {
       "primary": "Ver Projetos",
@@ -253,7 +253,7 @@
     }
   },
   "contact": {
-    "role": "Desenvolvedora Full Stack",
+    "role": "Desenvolvedora Front End",
     "phone": "Telefone",
     "email": "E-mail"
   },
@@ -270,7 +270,7 @@
         "degree": "Tecnólogo, Análise e Desenvolvimento de Sistemas"
       },
       "libano": {
-        "ai": "Pós-graduação Lato Sensu - Especialização, Web Design",
+        "ai": "Pós-graduação Lato Sensu - Especialização, Inteligência Artificial",
         "bi": "Pós-graduação Lato Sensu - Especialização, Desenvolvimento Mobile"
       }
     }

@@ -35,7 +35,6 @@ export async function generateMetadata({
     openGraph: {
       type: "website",
       locale: locale,
-      url: "https://gustavovieira.dev",
       title: t("title"),
       description: t("description"),
       siteName: "Sophya Damiazo Portfolio",
@@ -53,7 +52,6 @@ export async function generateMetadata({
       title: t("title"),
       description: t("description"),
       images: ["/og-image.png"],
-      creator: "@GustavoVieiraa",
     },
     robots: {
       index: true,

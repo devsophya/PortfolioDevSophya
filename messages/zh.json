@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - 前端开发工程师",
-    "description": "Gustavo Vieira - 拥有5年以上经验的软件工程师。专注于React、Next.js、TypeScript、Python和现代技术。构建可扩展的创新解决方案。",
-    "keywords": "软件工程师, 全栈开发者, React, Next.js, TypeScript, Python, Web开发, Gustavo Vieira"
+    "description": "Sophya Damiazo - 拥有5年以上经验的软件工程师。专注于React、Next.js、TypeScript、Python和现代技术。构建可扩展的创新解决方案。",
+    "keywords": "软件工程师, 前端开发者, React, Next.js, TypeScript, Python, Web开发, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -16,7 +16,7 @@
     "title": "前端开发工程师",
     "subtitle": "目前，我是一名软件工程师在",
     "greeting": "你好，我是",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "用简洁的代码和现代化的设计打造令人惊叹的数字体验"
   },
   "projects": {
@@ -50,7 +50,7 @@
     "impactsLabel": "主要影响",
     "keywordsLabel": "技术和技能",
     "novorumo": {
-      "role": "全栈开发工程师",
+      "role": "软件开发工程师",
       "period": "2023年1月 - 2023年6月",
       "duration": "6个月",
       "type": "实习",
@@ -213,7 +213,7 @@
     }
   },
   "contact": {
-    "role": "全栈开发工程师",
+    "role": "前端开发工程师",
     "phone": "电话",
     "email": "邮箱"
   },
@@ -230,7 +230,7 @@
         "degree": "学士学位，系统分析与开发"
       },
       "libano": {
-        "ai": "Lato Sensu 研究生 - 专业化, Web 设计",
+        "ai": "Lato Sensu 研究生 - 专业化, 人工智能",
         "bi": "Lato Sensu 研究生 - 专业化, 移动开发"
       }
     }

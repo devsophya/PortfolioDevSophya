@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - Développeuse Front End",
-    "description": "Gustavo Vieira - Ingénieur logiciel avec plus de 5 ans d'expérience. Spécialisé en React, Next.js, TypeScript, Python et technologies modernes. Création de solutions évolutives et innovantes.",
-    "keywords": "Ingénieur Logiciel, Développeur Full Stack, React, Next.js, TypeScript, Python, Développement Web, Gustavo Vieira"
+    "description": "Sophya Damiazo - Ingénieure logicielle avec plus de 5 ans d'expérience. Spécialisée en React, Next.js, TypeScript, Python et technologies modernes. Création de solutions évolutives et innovantes.",
+    "keywords": "Ingénieure Logicielle, Développeuse Front End, React, Next.js, TypeScript, Python, Développement Web, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -14,9 +14,9 @@
   },
   "hero": {
     "title": "Développeuse Front End",
-    "subtitle": "Actuellement, je suis ingénieur logiciel chez",
+    "subtitle": "Actuellement, je suis ingénieure logicielle chez",
     "greeting": "Bonjour, je suis",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "Créer des expériences numériques incroyables avec un code propre et un design moderne"
   },
   "projects": {
@@ -50,7 +50,7 @@
     "impactsLabel": "Impacts Principaux",
     "keywordsLabel": "Technologies et Compétences",
     "novorumo": {
-      "role": "Développeuse Full Stack",
+      "role": "Développeuse Logicielle",
       "period": "janv. 2023 - juin 2023",
       "duration": "6 mois",
       "type": "Stage",
@@ -238,7 +238,7 @@
     }
   },
   "contact": {
-    "role": "Développeuse Full Stack",
+    "role": "Développeuse Front End",
     "phone": "Téléphone",
     "email": "E-mail"
   },
@@ -255,7 +255,7 @@
         "degree": "Licence, Analyse et Développement de Systèmes"
       },
       "libano": {
-        "ai": "Postgrade Lato Sensu - Spécialisation, Web Design",
+        "ai": "Postgrade Lato Sensu - Spécialisation, Intelligence Artificielle",
         "bi": "Postgrade Lato Sensu - Spécialisation, Développement Mobile"
       }
     }

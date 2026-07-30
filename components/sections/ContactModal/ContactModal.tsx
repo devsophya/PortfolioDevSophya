@@ -136,7 +136,7 @@ export default function ContactModal({
             </a>
 
             <a
-              href="https://www.linkedin.com/in/sophya-damiazo-695991268/"
+              href="https://www.linkedin.com/in/sophyadamiazo/"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.contactItem}
@@ -146,7 +146,7 @@ export default function ContactModal({
               </div>
               <div className={styles.contactText}>
                 <span className={styles.label}>LinkedIn</span>
-                <span className={styles.value}>sophya-damiazo-695991268</span>
+                <span className={styles.value}>sophya-damiazo</span>
               </div>
             </a>
 

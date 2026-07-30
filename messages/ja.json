@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Sophya Damiazo - フロントエンド開発者",
-    "description": "Gustavo Vieira - 5年以上の経験を持つソフトウェアエンジニア。React、Next.js、TypeScript、Pythonおよび最新技術に特化。スケーラブルで革新的なソリューションを構築。",
-    "keywords": "ソフトウェアエンジニア, フルスタック開発者, React, Next.js, TypeScript, Python, Web開発, Gustavo Vieira"
+    "description": "Sophya Damiazo - 5年以上の経験を持つソフトウェアエンジニア。React、Next.js、TypeScript、Pythonおよび最新技術に特化。スケーラブルで革新的なソリューションを構築。",
+    "keywords": "ソフトウェアエンジニア, フロントエンド開発者, React, Next.js, TypeScript, Python, Web開発, Sophya Damiazo"
   },
   "header": {
     "nav": {
@@ -16,7 +16,7 @@
     "title": "フロントエンド開発者",
     "subtitle": "現在、私はソフトウェアエンジニアとして",
     "greeting": "こんにちは、私は",
-    "name": "Gustavo Vieira",
+    "name": "Sophya Damiazo",
     "description": "クリーンなコードとモダンなデザインで素晴らしいデジタル体験を創造します"
   },
   "projects": {
@@ -49,7 +49,7 @@
     "impactsLabel": "主な影響",
     "keywordsLabel": "技術とスキル",
     "novorumo": {
-      "role": "フルスタック開発者",
+      "role": "ソフトウェア開発者",
       "period": "2023年1月 - 2023年6月",      "duration": "6ヶ月",
       "type": "インターンシップ",
       "companyDescription": "乾貨物を専門とする道路輸送会社で、全国展開し、鉄鋼、食品、穀物セクターに焦点を当てています。",
@@ -236,7 +236,7 @@
     }
   },
   "contact": {
-    "role": "フルスタック開発者",
+    "role": "フロントエンド開発者",
     "phone": "電話",
     "email": "メール"
   },
@@ -253,7 +253,7 @@
         "degree": "テクノロジスト、システム分析と開発"
       },
       "libano": {
-        "ai": "ポストグラデュエーション・ラト・センス - 専門, Webデザイン",
+        "ai": "ポストグラデュエーション・ラト・センス - 専門, 人工知能",
         "bi": "ポストグラデュエーション・ラト・センス - 専門, モバイル開発"
       }
     }
